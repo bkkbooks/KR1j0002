@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1j0002/chant/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 釋山第十一河南華河西嶽河東岱河北恒江南衡山三襲陟再成英一成坯山大而高崧山小而高岑銳而高嶠卑而大扈小而眾巋小山岌大山峘屬者嶧獨者蜀上正章宛中隆山脊岡未及上翠微山頂冢崒者厜㕒山如堂者密如防者盛巒山嶞重甗隒左右有岸𠩂大山宮小山霍小山別大山鮮山絕陘多小石磝多大石礐多草木岵無草木峐山上有水埒夏有水冬無水澩山豄無所通谿石戴土謂之崔嵬土戴石為砠山夾水澗陵夾水澞山有穴為岫山西曰夕陽山東曰朝陽泰山為東嶽華山為西嶽霍山為南嶽恒山為北嶽嵩高為中嶽梁山晉望也
+  hash: sha256:80c79b3e514a5eb9918581cc6ed1fe79bb7017f2efe79765a62878e79815d5b5
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1j0002_CHANT_011-1a.1-h}
+metadata:
+  title: 爾雅
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR1j0002.xml
+hash: sha256:c55d3691353f94cdc0fc599e4bc95326152a0cfb278b4c2cea5c3730373cf457

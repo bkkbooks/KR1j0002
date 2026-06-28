@@ -1,0 +1,374 @@
+canonical_identifier: bkk:krp/KR1j0002/bkk/v1/markers/12
+seq: 12
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', SBCK: 爾雅卷下郭璞注}
+  - {type: page-break, offset: 0, content: '', id: KR1j0002_SBCK_012-1a}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 爾雅卷下郭璞注}
+  body:
+  - {type: variant, offset: 1, length: 1, content: 水, SBCK: 草}
+  - {type: variant, offset: 1, length: 1, content: 水, krp: 草}
+  - {type: variant, offset: 4, length: 0, content: '', SBCK: 三釋木第十四釋蟲第十五釋魚第十六釋鳥第十七釋獸第十八釋畜第十九釋草第十三蒮山韭茖山葱葝山䪥蒚山蒜今山中多有此菜皆如人家所種者茖葱細莖大葉薜山蘄廣雅云山蘄當歸當歸今似蘄而麤大椵木槿櫬木槿別}
+  - {type: variant, offset: 4, length: 0, content: '', krp: 三釋木第十四釋蟲第十五釋魚第十六釋鳥第十七釋獸第十八釋畜第十九釋草第十三蒮山韭茖山葱葝山䪥蒚山蒜今山中多有此菜皆如人家所種者茖葱細莖大葉薜山蘄廣雅云山蘄當歸當歸今似蘄而麤大椵木槿櫬木槿別}
+  - {type: xml-element, offset: 5, content: '', id: KR1j0002_CHANT_012-bkkxmlele1}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR1j0002_CHANT_012-1a.1}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR1j0002_CHANT_012-1a.2}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR1j0002_CHANT_012-1a.3}
+  - {type: variant, offset: 5, length: 3, content: 水泉泉, SBCK: 名也似李樹華朝生夕隕可食或呼曰及亦曰王蒸术山薊本草云术}
+  - {type: variant, offset: 5, length: 3, content: 水泉泉, krp: 名也似李樹華朝生夕隕可食或呼曰及亦曰王蒸术山薊本草云术}
+  - {type: punctuation, offset: 7, content: 。, id: KR1j0002_CHANT_012-bkkpn1}
+  - {type: xml-element, offset: 7, content: '', id: KR1j0002_CHANT_012-bkkxmlele2}
+  - {type: xml-element, offset: 7, content: '', id: KR1j0002_CHANT_012-bkkxmlele3}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR1j0002_CHANT_012-1a.4}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR1j0002_CHANT_012-1a.5}
+  - {type: variant, offset: 9, length: 1, content: 見, SBCK: 名山薊今术似薊而生山中楊枹薊似薊而肥大今呼之馬薊葥王蔧王帚也似藜其樹可以爲埽蔧江東呼之曰落帚菉王芻菉蓐也今呼鴟脚莎拜蔏藋蔏藋亦似藜蘩皤蒿白蒿蒿菣今人呼青蒿香中炙啖者爲菣蔚牡菣無子者齧彫蓬薦黍蓬別蓬種類􅤴䑕莞亦莞屬也纎細似龍須可以爲席蜀中出好者葝䑕尾可以染皂菥􅕴大薺似薺葉細俗呼之曰老薺蒤虎杖似紅草而麤大有細刺可以染赤孟狼尾似茅今人亦以覆屋瓠棲瓣瓠中瓣也詩云齒如瓠棲茹藘茅蒐今之蒨也可以染絳果臝之實栝樓今齊人呼之爲天􅀲荼苦菜詩曰誰謂荼苦苦菜可食萑蓷今茺蔚也葉似荏方莖白華華生節閒又名益母廣雅云虉綬小草有雜色似綬粢稷今江東人呼粟爲粢衆秫謂黏粟也戎叔謂之荏菽即胡豆也卉草百草揔名萒雀弁未詳蘥雀麥即燕麥也蘹烏薞萰菟荄蘩菟蒵皆未詳蔩菟􅀲莬􅀲似上􅀲茢薽豕首本草曰􅇾盧}
+  - {type: page-break, offset: 9, content: '', id: KR1j0002_SBCK_012-1b}
+  - {type: variant, offset: 9, length: 1, content: 見, krp: 名山薊今术似薊而生山中楊枹薊似薊而肥大今呼之馬薊葥王蔧王帚也似藜其樹可以爲埽蔧江東呼之曰落帚菉王芻菉蓐也今呼鴟脚莎拜蔏藋蔏藋亦似藜蘩皤蒿白蒿蒿菣今人呼青蒿香中炙啖者爲菣蔚牡菣無子者齧彫蓬薦黍蓬別蓬種類􅤴䑕莞亦莞屬也纎細似龍須可以爲席蜀中出好者葝䑕尾可以染皂菥􅕴大薺似薺葉細俗呼之曰老薺蒤虎杖似紅草而麤大有細刺可以染赤孟狼尾似茅今人亦以覆屋瓠棲瓣瓠中瓣也詩云齒如瓠棲茹藘茅蒐今之蒨也可以染絳果臝之實栝樓今齊人呼之爲天瓜荼苦菜詩曰誰謂荼苦苦菜可食萑蓷今茺蔚也葉似荏方莖白華華生節閒又名益母廣雅云虉綬小草有雜色似綬粢稷今江東人呼粟爲粢衆秫謂黏粟也戎叔謂之荏菽即胡豆也卉草百草揔名萒雀弁未詳蘥雀麥即燕麥也蘹烏薞萰菟荄蘩菟蒵皆未詳蔩菟瓜莬瓜似上瓜茢薽豕首本草曰彘盧}
+  - {type: variant, offset: 11, length: 4, content: 否為瀸井, SBCK: 名蟾蠩蘭今江東呼豨首可以煼􅅙蛹荓馬帚似蓍可以爲掃蔧藱懷羊未詳茭牛蘄今馬蘄葉細銳似芹亦可食葖蘆萉萉冝爲菔蘆菔蕪菁屬紫華大根俗呼雹葖淔耳漢和帝時任城生黑黍或三四實實二米得黍三斛八斗是稌稻今沛國呼稌葍藑茅葍華有赤者爲藑藑葍}
+  - {type: page-break, offset: 11, content: '', id: KR1j0002_SBCK_012-2a}
+  - {type: page-break, offset: 11, content: '', id: KR1j0002_SBCK_012-3a}
+  - {type: variant, offset: 11, length: 4, content: 否為瀸井, krp: 名蟾蠩蘭今江東呼豨首可以煼蠶蛹荓馬帚似蓍可以爲掃蔧藱懷羊未詳茭牛蘄今馬蘄葉細銳似芹亦可食葖蘆萉萉冝爲菔蘆菔蕪菁屬紫華大根俗呼雹葖淔耳漢和帝時任城生黑黍或三四實實二米得黍三斛八斗是稌稻今沛國呼稌葍藑茅葍華有赤者爲藑藑葍}
+  - {type: punctuation, offset: 14, content: 。, id: KR1j0002_CHANT_012-bkkpn2}
+  - {type: xml-element, offset: 14, content: '', id: KR1j0002_CHANT_012-bkkxmlele4}
+  - {type: xml-element, offset: 14, content: '', id: KR1j0002_CHANT_012-bkkxmlele5}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR1j0002_CHANT_012-1a.6}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR1j0002_CHANT_012-1a.7}
+  - {type: variant, offset: 16, length: 0, content: '', SBCK: 種耳亦猶菱苕華黃白異名臺夫須鄭箋詩云臺可以爲禦雨笠藆藅未詳莔貝母根如小貝貟而白華葉似韭荍蚍衃今荆葵也似葵紫色謝氏云小草多華少葉葉又翹起艾冰臺今艾蒿蕇亭歷實葉皆似芥一名狗薺廣雅云音典苻􅀑目今江東}
+  - {type: variant, offset: 16, length: 0, content: '', krp: 種耳亦猶菱苕華黃白異名臺夫須鄭箋詩云臺可以爲禦雨笠藆藅未詳莔貝母根如小貝貟而白華葉似韭荍蚍衃今荆葵也似葵紫色謝氏云小草多華少葉葉又翹起艾冰臺今艾蒿蕇亭歷實葉皆似芥一名狗薺廣雅云音典苻鬼目今江東}
+  - {type: variant, offset: 17, length: 9, content: 水一無水為瀱汋濫泉, SBCK: 􅀑目草莖似葛葉貟而毛子如耳璫也赤色叢生薜􅁃草未詳蔜􅭚􅘚今蘩􅘚也或曰鷄膓草離南活莌草生江南髙丈許大葉莖中有瓤}
+  - {type: variant, offset: 17, length: 9, content: 水一無水為瀱汋濫泉, krp: 鬼目草莖似葛葉貟而毛子如耳璫也赤色叢生薜庾草未詳蔜􅭚􅘚今蘩􅘚也或曰鷄膓草離南活莌草生江南髙丈許大葉莖中有瓤}
+  - {type: punctuation, offset: 24, content: 。, id: KR1j0002_CHANT_012-bkkpn3}
+  - {type: xml-element, offset: 24, content: '', id: KR1j0002_CHANT_012-bkkxmlele6}
+  - {type: xml-element, offset: 24, content: '', id: KR1j0002_CHANT_012-bkkxmlele7}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR1j0002_CHANT_012-2a.1}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR1j0002_CHANT_012-2a.2}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR1j0002_CHANT_012-2a.3}
+  - {type: variant, offset: 27, length: 55, content: 出正出涌出也沃泉縣出縣出下出也氿泉穴出穴出仄出也湀闢流川過辨回川灉反入潬沙出汧出不流歸異出同流肥瀵大出尾下水醮, SBCK: 白零陵人祖}
+  - {type: variant, offset: 27, length: 55, content: 出正出涌出也沃泉縣出縣出下出也氿泉穴出穴出仄出也湀闢流川過辨回川灉反入潬沙出汧出不流歸異出同流肥瀵大出尾下水醮, krp: 白零陵人祖}
+  - {type: punctuation, offset: 28, content: 。, id: KR1j0002_CHANT_012-bkkpn4}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR1j0002_CHANT_012-2a.4}
+  - {type: punctuation, offset: 30, content: 、, id: KR1j0002_CHANT_012-bkkpn5}
+  - {type: punctuation, offset: 33, content: 。, id: KR1j0002_CHANT_012-bkkpn6}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR1j0002_CHANT_012-2a.5}
+  - {type: punctuation, offset: 37, content: 。, id: KR1j0002_CHANT_012-bkkpn7}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR1j0002_CHANT_012-2a.6}
+  - {type: punctuation, offset: 39, content: 、, id: KR1j0002_CHANT_012-bkkpn8}
+  - {type: punctuation, offset: 42, content: 。, id: KR1j0002_CHANT_012-bkkpn9}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR1j0002_CHANT_012-2a.7}
+  - {type: punctuation, offset: 46, content: 。, id: KR1j0002_CHANT_012-bkkpn10}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR1j0002_CHANT_012-2a.8}
+  - {type: punctuation, offset: 48, content: 、, id: KR1j0002_CHANT_012-bkkpn11}
+  - {type: punctuation, offset: 51, content: 。, id: KR1j0002_CHANT_012-bkkpn12}
+  - {type: xml-element, offset: 51, content: '', id: KR1j0002_CHANT_012-bkkxmlele8}
+  - {type: xml-element, offset: 51, content: '', id: KR1j0002_CHANT_012-bkkxmlele9}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR1j0002_CHANT_012-2a.9}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR1j0002_CHANT_012-2a.10}
+  - {type: punctuation, offset: 53, content: ，, id: KR1j0002_CHANT_012-bkkpn13}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR1j0002_CHANT_012-2a.11}
+  - {type: punctuation, offset: 55, content: 。, id: KR1j0002_CHANT_012-bkkpn14}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR1j0002_CHANT_012-2a.12}
+  - {type: punctuation, offset: 57, content: ，, id: KR1j0002_CHANT_012-bkkpn15}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR1j0002_CHANT_012-2a.13}
+  - {type: punctuation, offset: 59, content: 。, id: KR1j0002_CHANT_012-bkkpn16}
+  - {type: xml-element, offset: 59, content: '', id: KR1j0002_CHANT_012-bkkxmlele10}
+  - {type: xml-element, offset: 59, content: '', id: KR1j0002_CHANT_012-bkkxmlele11}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR1j0002_CHANT_012-3a.1}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR1j0002_CHANT_012-3a.2}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR1j0002_CHANT_012-3a.3}
+  - {type: punctuation, offset: 60, content: 、, id: KR1j0002_CHANT_012-bkkpn17}
+  - {type: punctuation, offset: 62, content: 。, id: KR1j0002_CHANT_012-bkkpn18}
+  - {type: xml-element, offset: 62, content: '', id: KR1j0002_CHANT_012-bkkxmlele12}
+  - {type: xml-element, offset: 62, content: '', id: KR1j0002_CHANT_012-bkkxmlele13}
+  - {type: 'tls:seg', offset: 62, content: '', id: KR1j0002_CHANT_012-3a.4}
+  - {type: 'tls:seg', offset: 62, content: '', id: KR1j0002_CHANT_012-3a.5}
+  - {type: substitution, offset: 62, original: 潬, replacement: 灘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3730}}
+  - {type: punctuation, offset: 63, content: 、, id: KR1j0002_CHANT_012-bkkpn19}
+  - {type: punctuation, offset: 65, content: 。, id: KR1j0002_CHANT_012-bkkpn20}
+  - {type: xml-element, offset: 65, content: '', id: KR1j0002_CHANT_012-bkkxmlele14}
+  - {type: xml-element, offset: 65, content: '', id: KR1j0002_CHANT_012-bkkxmlele15}
+  - {type: 'tls:seg', offset: 65, content: '', id: KR1j0002_CHANT_012-3a.6}
+  - {type: 'tls:seg', offset: 65, content: '', id: KR1j0002_CHANT_012-3a.7}
+  - {type: punctuation, offset: 66, content: 、, id: KR1j0002_CHANT_012-bkkpn21}
+  - {type: punctuation, offset: 69, content: 。, id: KR1j0002_CHANT_012-bkkpn22}
+  - {type: xml-element, offset: 69, content: '', id: KR1j0002_CHANT_012-bkkxmlele16}
+  - {type: xml-element, offset: 69, content: '', id: KR1j0002_CHANT_012-bkkxmlele17}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR1j0002_CHANT_012-4a.1}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR1j0002_CHANT_012-4a.2}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR1j0002_CHANT_012-4a.3}
+  - {type: punctuation, offset: 74, content: 、, id: KR1j0002_CHANT_012-bkkpn23}
+  - {type: punctuation, offset: 75, content: 。, id: KR1j0002_CHANT_012-bkkpn24}
+  - {type: xml-element, offset: 75, content: '', id: KR1j0002_CHANT_012-bkkxmlele18}
+  - {type: xml-element, offset: 75, content: '', id: KR1j0002_CHANT_012-bkkxmlele19}
+  - {type: 'tls:seg', offset: 75, content: '', id: KR1j0002_CHANT_012-4a.4}
+  - {type: 'tls:seg', offset: 75, content: '', id: KR1j0002_CHANT_012-4a.5}
+  - {type: punctuation, offset: 76, content: 、, id: KR1j0002_CHANT_012-bkkpn25}
+  - {type: punctuation, offset: 78, content: ，, id: KR1j0002_CHANT_012-bkkpn26}
+  - {type: 'tls:seg', offset: 78, content: '', id: KR1j0002_CHANT_012-4a.6}
+  - {type: punctuation, offset: 80, content: 。, id: KR1j0002_CHANT_012-bkkpn27}
+  - {type: xml-element, offset: 80, content: '', id: KR1j0002_CHANT_012-bkkxmlele20}
+  - {type: xml-element, offset: 80, content: '', id: KR1j0002_CHANT_012-bkkxmlele21}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR1j0002_CHANT_012-4a.7}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR1j0002_CHANT_012-4a.8}
+  - {type: variant, offset: 83, length: 22, content: 厬水自河出為灉濟為濋汶為灛洛為波漢為潛淮為滸, SBCK: 貫之爲樹蘢天蘥須葑蓯未詳蒡隱荵似蘇有毛今}
+  - {type: variant, offset: 83, length: 22, content: 厬水自河出為灉濟為濋汶為灛洛為波漢為潛淮為滸, krp: 貫之爲樹蘢天蘥須葑蓯未詳蒡隱荵似蘇有毛今}
+  - {type: punctuation, offset: 84, content: 。, id: KR1j0002_CHANT_012-bkkpn28}
+  - {type: xml-element, offset: 84, content: '', id: KR1j0002_CHANT_012-bkkxmlele22}
+  - {type: xml-element, offset: 84, content: '', id: KR1j0002_CHANT_012-bkkxmlele23}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR1j0002_CHANT_012-5a.1}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR1j0002_CHANT_012-5a.2}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR1j0002_CHANT_012-5a.3}
+  - {type: punctuation, offset: 90, content: ，, id: KR1j0002_CHANT_012-bkkpn29}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR1j0002_CHANT_012-5a.4}
+  - {type: punctuation, offset: 93, content: ，, id: KR1j0002_CHANT_012-bkkpn30}
+  - {type: 'tls:seg', offset: 93, content: '', id: KR1j0002_CHANT_012-5a.5}
+  - {type: punctuation, offset: 96, content: ，, id: KR1j0002_CHANT_012-bkkpn31}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR1j0002_CHANT_012-5a.6}
+  - {type: punctuation, offset: 99, content: ，, id: KR1j0002_CHANT_012-bkkpn32}
+  - {type: 'tls:seg', offset: 99, content: '', id: KR1j0002_CHANT_012-5a.7}
+  - {type: punctuation, offset: 102, content: ，, id: KR1j0002_CHANT_012-bkkpn33}
+  - {type: 'tls:seg', offset: 102, content: '', id: KR1j0002_CHANT_012-5a.8}
+  - {type: punctuation, offset: 105, content: ，, id: KR1j0002_CHANT_012-bkkpn34}
+  - {type: 'tls:seg', offset: 105, content: '', id: KR1j0002_CHANT_012-5a.9}
+  - {type: variant, offset: 106, length: 53, content: 為沱濄為洵潁為沙汝為濆水決之澤為汧決復入為汜河水清且灡漪大波為瀾小波為淪直波為徑江有沱河有灉汝有濆滸水厓水, SBCK: 東呼爲隱荵藏以爲葅亦可瀹食莤蔓于}
+  - {type: variant, offset: 106, length: 53, content: 為沱濄為洵潁為沙汝為濆水決之澤為汧決復入為汜河水清且灡漪大波為瀾小波為淪直波為徑江有沱河有灉汝有濆滸水厓水, krp: 東呼爲隱荵藏以爲葅亦可瀹食莤蔓于}
+  - {type: punctuation, offset: 108, content: ，, id: KR1j0002_CHANT_012-bkkpn35}
+  - {type: 'tls:seg', offset: 108, content: '', id: KR1j0002_CHANT_012-5a.10}
+  - {type: punctuation, offset: 111, content: ，, id: KR1j0002_CHANT_012-bkkpn36}
+  - {type: 'tls:seg', offset: 111, content: '', id: KR1j0002_CHANT_012-5a.11}
+  - {type: punctuation, offset: 114, content: ，, id: KR1j0002_CHANT_012-bkkpn37}
+  - {type: 'tls:seg', offset: 114, content: '', id: KR1j0002_CHANT_012-5a.12}
+  - {type: punctuation, offset: 117, content: 。, id: KR1j0002_CHANT_012-bkkpn38}
+  - {type: xml-element, offset: 117, content: '', id: KR1j0002_CHANT_012-bkkxmlele24}
+  - {type: xml-element, offset: 117, content: '', id: KR1j0002_CHANT_012-bkkxmlele25}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR1j0002_CHANT_012-6a.1}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR1j0002_CHANT_012-6a.2}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR1j0002_CHANT_012-6a.3}
+  - {type: punctuation, offset: 123, content: ，, id: KR1j0002_CHANT_012-bkkpn39}
+  - {type: 'tls:seg', offset: 123, content: '', id: KR1j0002_CHANT_012-6a.4}
+  - {type: punctuation, offset: 128, content: 。, id: KR1j0002_CHANT_012-bkkpn40}
+  - {type: xml-element, offset: 128, content: '', id: KR1j0002_CHANT_012-bkkxmlele26}
+  - {type: xml-element, offset: 128, content: '', id: KR1j0002_CHANT_012-bkkxmlele27}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR1j0002_CHANT_012-6a.5}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR1j0002_CHANT_012-6a.6}
+  - {type: punctuation, offset: 134, content: ，, id: KR1j0002_CHANT_012-bkkpn41}
+  - {type: 'tls:seg', offset: 134, content: '', id: KR1j0002_CHANT_012-6a.7}
+  - {type: punctuation, offset: 138, content: ，, id: KR1j0002_CHANT_012-bkkpn42}
+  - {type: 'tls:seg', offset: 138, content: '', id: KR1j0002_CHANT_012-6a.8}
+  - {type: punctuation, offset: 142, content: ，, id: KR1j0002_CHANT_012-bkkpn43}
+  - {type: 'tls:seg', offset: 142, content: '', id: KR1j0002_CHANT_012-6a.9}
+  - {type: punctuation, offset: 146, content: 。, id: KR1j0002_CHANT_012-bkkpn44}
+  - {type: xml-element, offset: 146, content: '', id: KR1j0002_CHANT_012-bkkxmlele28}
+  - {type: xml-element, offset: 146, content: '', id: KR1j0002_CHANT_012-bkkxmlele29}
+  - {type: 'tls:seg', offset: 146, content: '', id: KR1j0002_CHANT_012-7a.1}
+  - {type: 'tls:seg', offset: 146, content: '', id: KR1j0002_CHANT_012-7a.2}
+  - {type: 'tls:seg', offset: 146, content: '', id: KR1j0002_CHANT_012-7a.3}
+  - {type: punctuation, offset: 149, content: ，, id: KR1j0002_CHANT_012-bkkpn45}
+  - {type: 'tls:seg', offset: 149, content: '', id: KR1j0002_CHANT_012-7a.4}
+  - {type: punctuation, offset: 152, content: ，, id: KR1j0002_CHANT_012-bkkpn46}
+  - {type: 'tls:seg', offset: 152, content: '', id: KR1j0002_CHANT_012-7a.5}
+  - {type: punctuation, offset: 155, content: 。, id: KR1j0002_CHANT_012-bkkpn47}
+  - {type: xml-element, offset: 155, content: '', id: KR1j0002_CHANT_012-bkkxmlele30}
+  - {type: xml-element, offset: 155, content: '', id: KR1j0002_CHANT_012-bkkxmlele31}
+  - {type: 'tls:seg', offset: 155, content: '', id: KR1j0002_CHANT_012-7a.6}
+  - {type: 'tls:seg', offset: 155, content: '', id: KR1j0002_CHANT_012-7a.7}
+  - {type: punctuation, offset: 156, content: 、, id: KR1j0002_CHANT_012-bkkpn48}
+  - {type: substitution, offset: 157, original: 厓, replacement: 崖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3335}}
+  - {type: punctuation, offset: 158, content: 。, id: KR1j0002_CHANT_012-bkkpn49}
+  - {type: xml-element, offset: 158, content: '', id: KR1j0002_CHANT_012-bkkxmlele32}
+  - {type: xml-element, offset: 158, content: '', id: KR1j0002_CHANT_012-bkkxmlele33}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR1j0002_CHANT_012-7a.8}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR1j0002_CHANT_012-7a.9}
+  - {type: variant, offset: 160, length: 135, content: 交為湄濟有深涉深則厲淺則揭揭者揭衣也以衣涉水為厲繇膝以下為揭繇膝以上為涉繇帶以上為厲潛行為泳汎汎楊舟紼縭維之紼𦆽也縭緌也天子造舟諸侯維舟大夫方舟士特舟庶人乘泭水注川曰谿注谿曰谷注谷曰溝注溝曰澮注澮曰瀆逆流而上曰泝洄順流而下曰泝游正絕流曰亂江河淮濟為四瀆四瀆者發源注海者也, SBCK: 生}
+  - {type: variant, offset: 160, length: 135, content: 交為湄濟有深涉深則厲淺則揭揭者揭衣也以衣涉水為厲繇膝以下為揭繇膝以上為涉繇帶以上為厲潛行為泳汎汎楊舟紼縭維之紼𦆽也縭緌也天子造舟諸侯維舟大夫方舟士特舟庶人乘泭水注川曰谿注谿曰谷注谷曰溝注溝曰澮注澮曰瀆逆流而上曰泝洄順流而下曰泝游正絕流曰亂江河淮濟為四瀆四瀆者發源注海者也, krp: 生}
+  - {type: punctuation, offset: 163, content: 。, id: KR1j0002_CHANT_012-bkkpn50}
+  - {type: xml-element, offset: 163, content: '', id: KR1j0002_CHANT_012-bkkxmlele34}
+  - {type: xml-element, offset: 163, content: '', id: KR1j0002_CHANT_012-bkkxmlele35}
+  - {type: 'tls:seg', offset: 163, content: '', id: KR1j0002_CHANT_012-8a.1}
+  - {type: 'tls:seg', offset: 163, content: '', id: KR1j0002_CHANT_012-8a.2}
+  - {type: 'tls:seg', offset: 163, content: '', id: KR1j0002_CHANT_012-8a.3}
+  - {type: punctuation, offset: 167, content: ，, id: KR1j0002_CHANT_012-bkkpn51}
+  - {type: 'tls:seg', offset: 167, content: '', id: KR1j0002_CHANT_012-8a.4}
+  - {type: punctuation, offset: 170, content: ，, id: KR1j0002_CHANT_012-bkkpn52}
+  - {type: 'tls:seg', offset: 170, content: '', id: KR1j0002_CHANT_012-8a.5}
+  - {type: punctuation, offset: 173, content: 。, id: KR1j0002_CHANT_012-bkkpn53}
+  - {type: 'tls:seg', offset: 173, content: '', id: KR1j0002_CHANT_012-8a.6}
+  - {type: punctuation, offset: 175, content: 、, id: KR1j0002_CHANT_012-bkkpn54}
+  - {type: punctuation, offset: 178, content: 。, id: KR1j0002_CHANT_012-bkkpn55}
+  - {type: 'tls:seg', offset: 178, content: '', id: KR1j0002_CHANT_012-8a.7}
+  - {type: punctuation, offset: 184, content: 。, id: KR1j0002_CHANT_012-bkkpn56}
+  - {type: 'tls:seg', offset: 184, content: '', id: KR1j0002_CHANT_012-8a.8}
+  - {type: punctuation, offset: 190, content: ，, id: KR1j0002_CHANT_012-bkkpn57}
+  - {type: 'tls:seg', offset: 190, content: '', id: KR1j0002_CHANT_012-8a.9}
+  - {type: punctuation, offset: 196, content: ，, id: KR1j0002_CHANT_012-bkkpn58}
+  - {type: 'tls:seg', offset: 196, content: '', id: KR1j0002_CHANT_012-8a.10}
+  - {type: punctuation, offset: 202, content: 。, id: KR1j0002_CHANT_012-bkkpn59}
+  - {type: xml-element, offset: 202, content: '', id: KR1j0002_CHANT_012-bkkxmlele36}
+  - {type: xml-element, offset: 202, content: '', id: KR1j0002_CHANT_012-bkkxmlele37}
+  - {type: 'tls:seg', offset: 202, content: '', id: KR1j0002_CHANT_012-9a.1}
+  - {type: 'tls:seg', offset: 202, content: '', id: KR1j0002_CHANT_012-9a.2}
+  - {type: 'tls:seg', offset: 202, content: '', id: KR1j0002_CHANT_012-9a.3}
+  - {type: punctuation, offset: 206, content: 。, id: KR1j0002_CHANT_012-bkkpn60}
+  - {type: xml-element, offset: 206, content: '', id: KR1j0002_CHANT_012-bkkxmlele38}
+  - {type: xml-element, offset: 206, content: '', id: KR1j0002_CHANT_012-bkkxmlele39}
+  - {type: 'tls:seg', offset: 206, content: '', id: KR1j0002_CHANT_012-9a.4}
+  - {type: 'tls:seg', offset: 206, content: '', id: KR1j0002_CHANT_012-9a.5}
+  - {type: substitution, offset: 206, original: 汎, replacement: 泛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0394}}
+  - {type: substitution, offset: 207, original: 汎, replacement: 泛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0394}}
+  - {type: punctuation, offset: 210, content: ，, id: KR1j0002_CHANT_012-bkkpn61}
+  - {type: 'tls:seg', offset: 210, content: '', id: KR1j0002_CHANT_012-9a.6}
+  - {type: punctuation, offset: 214, content: 。, id: KR1j0002_CHANT_012-bkkpn62}
+  - {type: 'tls:seg', offset: 214, content: '', id: KR1j0002_CHANT_012-9a.7}
+  - {type: punctuation, offset: 215, content: 、, id: KR1j0002_CHANT_012-bkkpn63}
+  - {type: punctuation, offset: 217, content: 。, id: KR1j0002_CHANT_012-bkkpn64}
+  - {type: 'tls:seg', offset: 217, content: '', id: KR1j0002_CHANT_012-9a.8}
+  - {type: punctuation, offset: 218, content: 、, id: KR1j0002_CHANT_012-bkkpn65}
+  - {type: punctuation, offset: 220, content: 。, id: KR1j0002_CHANT_012-bkkpn66}
+  - {type: xml-element, offset: 220, content: '', id: KR1j0002_CHANT_012-bkkxmlele40}
+  - {type: xml-element, offset: 220, content: '', id: KR1j0002_CHANT_012-bkkxmlele41}
+  - {type: 'tls:seg', offset: 220, content: '', id: KR1j0002_CHANT_012-10a.1}
+  - {type: 'tls:seg', offset: 220, content: '', id: KR1j0002_CHANT_012-10a.2}
+  - {type: 'tls:seg', offset: 220, content: '', id: KR1j0002_CHANT_012-10a.3}
+  - {type: punctuation, offset: 224, content: ，, id: KR1j0002_CHANT_012-bkkpn67}
+  - {type: 'tls:seg', offset: 224, content: '', id: KR1j0002_CHANT_012-10a.4}
+  - {type: punctuation, offset: 228, content: ，, id: KR1j0002_CHANT_012-bkkpn68}
+  - {type: 'tls:seg', offset: 228, content: '', id: KR1j0002_CHANT_012-10a.5}
+  - {type: punctuation, offset: 232, content: ，, id: KR1j0002_CHANT_012-bkkpn69}
+  - {type: 'tls:seg', offset: 232, content: '', id: KR1j0002_CHANT_012-10a.6}
+  - {type: punctuation, offset: 235, content: ，, id: KR1j0002_CHANT_012-bkkpn70}
+  - {type: 'tls:seg', offset: 235, content: '', id: KR1j0002_CHANT_012-10a.7}
+  - {type: punctuation, offset: 239, content: 。, id: KR1j0002_CHANT_012-bkkpn71}
+  - {type: xml-element, offset: 239, content: '', id: KR1j0002_CHANT_012-bkkxmlele42}
+  - {type: xml-element, offset: 239, content: '', id: KR1j0002_CHANT_012-bkkxmlele43}
+  - {type: 'tls:seg', offset: 239, content: '', id: KR1j0002_CHANT_012-10a.8}
+  - {type: 'tls:seg', offset: 239, content: '', id: KR1j0002_CHANT_012-10a.9}
+  - {type: substitution, offset: 243, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
+  - {type: punctuation, offset: 244, content: ，, id: KR1j0002_CHANT_012-bkkpn72}
+  - {type: 'tls:seg', offset: 244, content: '', id: KR1j0002_CHANT_012-10a.10}
+  - {type: substitution, offset: 245, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
+  - {type: punctuation, offset: 248, content: ，, id: KR1j0002_CHANT_012-bkkpn73}
+  - {type: 'tls:seg', offset: 248, content: '', id: KR1j0002_CHANT_012-10a.11}
+  - {type: punctuation, offset: 252, content: ，, id: KR1j0002_CHANT_012-bkkpn74}
+  - {type: 'tls:seg', offset: 252, content: '', id: KR1j0002_CHANT_012-10a.12}
+  - {type: punctuation, offset: 256, content: ，, id: KR1j0002_CHANT_012-bkkpn75}
+  - {type: 'tls:seg', offset: 256, content: '', id: KR1j0002_CHANT_012-10a.13}
+  - {type: punctuation, offset: 260, content: 。, id: KR1j0002_CHANT_012-bkkpn76}
+  - {type: xml-element, offset: 260, content: '', id: KR1j0002_CHANT_012-bkkxmlele44}
+  - {type: xml-element, offset: 260, content: '', id: KR1j0002_CHANT_012-bkkxmlele45}
+  - {type: 'tls:seg', offset: 260, content: '', id: KR1j0002_CHANT_012-11a.1}
+  - {type: 'tls:seg', offset: 260, content: '', id: KR1j0002_CHANT_012-11a.2}
+  - {type: 'tls:seg', offset: 260, content: '', id: KR1j0002_CHANT_012-11a.3}
+  - {type: punctuation, offset: 267, content: ，, id: KR1j0002_CHANT_012-bkkpn77}
+  - {type: 'tls:seg', offset: 267, content: '', id: KR1j0002_CHANT_012-11a.4}
+  - {type: punctuation, offset: 274, content: 。, id: KR1j0002_CHANT_012-bkkpn78}
+  - {type: xml-element, offset: 274, content: '', id: KR1j0002_CHANT_012-bkkxmlele46}
+  - {type: xml-element, offset: 274, content: '', id: KR1j0002_CHANT_012-bkkxmlele47}
+  - {type: 'tls:seg', offset: 274, content: '', id: KR1j0002_CHANT_012-11a.5}
+  - {type: 'tls:seg', offset: 274, content: '', id: KR1j0002_CHANT_012-11a.6}
+  - {type: substitution, offset: 275, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 279, content: 。, id: KR1j0002_CHANT_012-bkkpn79}
+  - {type: xml-element, offset: 279, content: '', id: KR1j0002_CHANT_012-bkkxmlele48}
+  - {type: xml-element, offset: 279, content: '', id: KR1j0002_CHANT_012-bkkxmlele49}
+  - {type: 'tls:seg', offset: 279, content: '', id: KR1j0002_CHANT_012-11a.7}
+  - {type: 'tls:seg', offset: 279, content: '', id: KR1j0002_CHANT_012-11a.8}
+  - {type: punctuation, offset: 280, content: 、, id: KR1j0002_CHANT_012-bkkpn80}
+  - {type: punctuation, offset: 281, content: 、, id: KR1j0002_CHANT_012-bkkpn81}
+  - {type: punctuation, offset: 282, content: 、, id: KR1j0002_CHANT_012-bkkpn82}
+  - {type: punctuation, offset: 286, content: 。, id: KR1j0002_CHANT_012-bkkpn83}
+  - {type: 'tls:seg', offset: 286, content: '', id: KR1j0002_CHANT_012-11a.9}
+  - {type: punctuation, offset: 289, content: 、, id: KR1j0002_CHANT_012-bkkpn84}
+  - {type: punctuation, offset: 295, content: 。, id: KR1j0002_CHANT_012-bkkpn85}
+  - {type: xml-element, offset: 295, content: '', id: KR1j0002_CHANT_012-bkkxmlele50}
+  - {type: xml-element, offset: 295, content: '', id: KR1j0002_CHANT_012-bkkxmlele51}
+  - {type: 'tls:seg', offset: 295, content: '', id: KR1j0002_CHANT_012-12a.1}
+  - {type: 'tls:seg', offset: 295, content: '', id: KR1j0002_CHANT_012-12a.2}
+  - {type: 'tls:seg', offset: 295, content: '', id: KR1j0002_CHANT_012-12a.3}
+  - {type: punctuation, offset: 297, content: 。, id: KR1j0002_CHANT_012-bkkpn86}
+  - {type: xml-element, offset: 297, content: '', id: KR1j0002_CHANT_012-bkkxmlele52}
+  - {type: xml-element, offset: 297, content: '', id: KR1j0002_CHANT_012-bkkxmlele53}
+  - {type: 'tls:seg', offset: 297, content: '', id: KR1j0002_CHANT_012-12a.4}
+  - {type: 'tls:seg', offset: 297, content: '', id: KR1j0002_CHANT_012-12a.5}
+  - {type: variant, offset: 297, length: 0, content: '', SBCK: 一名軒于江東呼莤音猶蓾蔖作履苴草柱夫揺車蔓生細葉紫華可食今俗呼曰翹揺車出隧蘧􅂼蘧􅂼似土菌生菰草中今江東啖之甜滑音氊氍㲣蘄茝蘪蕪香草葉小如萋狀淮南子云似蛇牀山海經云臭如蘪蕪茨蒺蔾布地蔓生細葉子有三角刺人見詩蘮蒘竊衣似芹可食子大如麥兩兩相合有毛著人衣髦顚蕀細葉有刺蔓生一名商蕀廣雅云女木也雚芄蘭雚芄蔓生斷之有白汁可啖􅙛莐藩生山上葉如韭一曰㮛母蕍蕮今澤蕮蔨鹿􅓂其實莥今鹿豆也葉似大豆根黄而香蔓延生薃侯莎其實媞夏小正曰薃也者莎䔺媞者其實莞苻蘺其上蒚今西方人呼蒲爲莞蒲蒚謂其頭臺首也今江東謂之苻蘺西方亦名蒲中莖爲蒚用之爲席音羽翮荷芙渠别名芙蓉江東呼荷其莖茄其葉蕸其本蔤莖下白蒻在泥中者其華菡萏見詩其實蓮蓮謂房也其根藕其中的蓮中子也的中薏中心苦紅蘢古其大者蘬俗呼紅草爲蘢鼓語轉耳蒫薺實薺子名黂枲實禮記曰苴麻之有黂枲麻别二名須薞蕪薞蕪似羊蹄葉細味酢可食菲蒠菜菲草生下溼地似蕪菁華紫赤色可食蕢赤莧今之莧赤莖者蘠蘼虋冬門冬一名滿冬本草云萹苻止未詳濼貫衆葉貟銳莖毛黑布地冬不死一名貫渠廣雅云貫節莙牛薻似薻葉大江東呼爲馬薻蓫薚馬尾廣雅曰馬尾蔏陸本草云别名薚今􅀜西亦呼爲薚江東呼爲當陸萍蓱}
+  - {type: page-break, offset: 297, content: '', id: KR1j0002_SBCK_012-3b}
+  - {type: variant, offset: 297, length: 0, content: '', krp: 一名軒于江東呼莤音猶蓾蔖作履苴草柱夫揺車蔓生細葉紫華可食今俗呼曰翹揺車出隧蘧𬞞蘧𬞞似土菌生菰草中今江東啖之甜滑音氊氍㲣蘄茝蘪蕪香草葉小如萋狀淮南子云似蛇牀山海經云臭如蘪蕪茨蒺蔾布地蔓生細葉子有三角刺人見詩蘮蒘竊衣似芹可食子大如麥兩兩相合有毛著人衣髦顚蕀細葉有刺蔓生一名商蕀廣雅云女木也雚芄蘭雚芄蔓生斷之有白汁可啖􅙛莐藩生山上葉如韭一曰㮛母蕍蕮今澤蕮蔨鹿靃其實莥今鹿豆也葉似大豆根黄而香蔓延生薃侯莎其實媞夏小正曰薃也者莎䔺媞者其實莞苻蘺其上蒚今西方人呼蒲爲莞蒲蒚謂其頭臺首也今江東謂之苻蘺西方亦名蒲中莖爲蒚用之爲席音羽翮荷芙渠别名芙蓉江東呼荷其莖茄其葉蕸其本蔤莖下白蒻在泥中者其華菡萏見詩其實蓮蓮謂房也其根藕其中的蓮中子也的中薏中心苦紅蘢古其大者蘬俗呼紅草爲蘢鼓語轉耳蒫薺實薺子名黂枲實禮記曰苴麻之有黂枲麻别二名須薞蕪薞蕪似羊蹄葉細味酢可食菲蒠菜菲草生下溼地似蕪菁華紫赤色可食蕢赤莧今之莧赤莖者蘠蘼虋冬門冬一名滿冬本草云萹苻止未詳濼貫衆葉貟銳莖毛黑布地冬不死一名貫渠廣雅云貫節莙牛薻似薻葉大江東呼爲馬薻蓫薚馬尾廣雅曰馬尾蔏陸本草云别名薚今關西亦呼爲薚江東呼爲當陸萍蓱}
+  - {type: variant, offset: 299, length: 0, content: '', SBCK: 浮蓱江東謂之薸音瓢其大者蘋詩曰于以采蘋莃菟葵頗似葵而小葉狀如藜有毛汋啖之滑芹楚葵今水中芹菜藬牛蘈今江東呼草爲牛蘈者高尺餘許方莖葉長而銳有穗穗間有華華紫縹色}
+  - {type: page-break, offset: 299, content: '', id: KR1j0002_SBCK_012-4a}
+  - {type: variant, offset: 299, length: 0, content: '', krp: 浮蓱江東謂之薸音瓢其大者蘋詩曰于以采蘋莃菟葵頗似葵而小葉狀如藜有毛汋啖之滑芹楚葵今水中芹菜藬牛蘈今江東呼草爲牛蘈者高尺餘許方莖葉長而銳有穗穗間有華華紫縹色}
+  - {type: variant, offset: 300, length: 1, content: 居, SBCK: 淋以爲飲藚牛脣毛詩傳曰水蕮也如藚斷寸寸有節抜之可復苹藾蕭今藾蒿也初生亦可食連異翹一名連苕又名連草本草云澤烏薞即上蘾也傅横目一名結縷俗謂之鼔箏草釐蔓華一名蒙華蓤蕨攗蓤今水中芰大菊蘧麥一名麥句薑即瞿麥薜牡未詳葥山莓今之木莓也實似藨莓而大亦可食齧苦蓳今蓳葵也葉似栁子如米汋食之滑藫石衣水苔也一名石髮江東食之或曰藫葉似䪥而大生水底亦可食蘜治蘠今之秋華菊唐蒙女蘿女蘿菟絲别四名詩云爰采唐矣苗蓨未詳茥蒛葐覆葐也實似莓而小亦可食芨蓳草即烏頭也江東呼爲蓳音靳虃百足未詳菺戎葵今蜀葵也似葵華如木槿華蘻狗毒樊光云俗語苦如蘻垂比葉未詳蕧盜庚旋蕧似菊茡麻母苴麻盛子}
+  - {type: variant, offset: 300, length: 1, content: 居, krp: 淋以爲飲藚牛脣毛詩傳曰水蕮也如藚斷寸寸有節抜之可復苹藾蕭今藾蒿也初生亦可食連異翹一名連苕又名連草本草云澤烏薞即上蘾也傅横目一名結縷俗謂之鼔箏草釐蔓華一名蒙華蓤蕨攗蓤今水中芰大菊蘧麥一名麥句薑即瞿麥薜牡未詳葥山莓今之木莓也實似藨莓而大亦可食齧苦蓳今蓳葵也葉似栁子如米汋食之滑藫石衣水苔也一名石髮江東食之或曰藫葉似䪥而大生水底亦可食蘜治蘠今之秋華菊唐蒙女蘿女蘿菟絲别四名詩云爰采唐矣苗蓨未詳茥蒛葐覆葐也實似莓而小亦可食芨蓳草即烏頭也江東呼爲蓳音靳虃百足未詳菺戎葵今蜀葵也似葵華如木槿華蘻狗毒樊光云俗語苦如蘻垂比葉未詳蕧盜庚旋蕧似菊茡麻母苴麻盛子}
+  - {type: variant, offset: 302, length: 0, content: '', SBCK: 瓝九葉今江東有草五葉共叢生一莖俗因名爲五葉即此類也藐茈草可以染紫一名茈䓞廣雅云􅀝商活脫即離南也蘵黃蒢蘵草葉似酸漿草小而白中心黃江東以作葅食藒車芞輿藒車香草見離騷權黃華今謂牛芸草爲黃華華黃葉似苜蓿葞春草一名芒草本草云蔠葵蘩露承露也大莖小葉華紫黃色菋荎藸五味也蔓生子叢在莖頭蒤委葉詩云以茠蒤蓼皇守田似燕麥子如彫胡米可食生廢田中一名守氣鉤藈姑鉤􅕕也一名王􅀲實如瓝􅀲正赤味苦望椉車可以爲索長丈餘困衱袶未詳攫烏階即烏杷也子連相著狀如杷齒可以染皂杜土鹵杜衡也似葵而香盱虺牀蛇牀也一名馬牀廣雅云蔝蔜未聞赤􅂁薊即上枹薊菟奚顆涷􅅃涷也紫赤華生水中中馗菌地蕈也似蓋今江東名爲土菌亦}
+  - {type: page-break, offset: 302, content: '', id: KR1j0002_SBCK_012-4b}
+  - {type: variant, offset: 302, length: 0, content: '', krp: 瓝九葉今江東有草五葉共叢生一莖俗因名爲五葉即此類也藐茈草可以染紫一名茈䓞廣雅云倚商活脫即離南也蘵黃蒢蘵草葉似酸漿草小而白中心黃江東以作葅食藒車芞輿藒車香草見離騷權黃華今謂牛芸草爲黃華華黃葉似苜蓿葞春草一名芒草本草云蔠葵蘩露承露也大莖小葉華紫黃色菋荎藸五味也蔓生子叢在莖頭蒤委葉詩云以茠蒤蓼皇守田似燕麥子如彫胡米可食生廢田中一名守氣鉤藈姑鉤􅕕也一名王瓜實如瓝瓜正赤味苦望椉車可以爲索長丈餘困衱袶未詳攫烏階即烏杷也子連相著狀如杷齒可以染皂杜土鹵杜衡也似葵而香盱虺牀蛇牀也一名馬牀廣雅云蔝蔜未聞赤𫀆薊即上枹薊菟奚顆涷𣢾涷也紫赤華生水中中馗菌地蕈也似蓋今江東名爲土菌亦}
+  - {type: variant, offset: 303, length: 1, content: 洲, SBCK: 馗厨可啖之}
+  - {type: variant, offset: 303, length: 1, content: 洲, krp: 馗厨可啖之}
+  - {type: punctuation, offset: 304, content: ，, id: KR1j0002_CHANT_012-bkkpn87}
+  - {type: 'tls:seg', offset: 304, content: '', id: KR1j0002_CHANT_012-12a.6}
+  - {type: variant, offset: 305, length: 1, content: 洲, SBCK: 者菌大小異名菆小葉未聞苕陵苕一名陵時本草云黃華蔈白華茇苕華色異名亦不同音沛蘪從水生生於水中薇垂水生於水邊薜山麻似人家麻生山中莽數節竹類也節間促桃枝四寸有節今桃枝節間相去多四寸粼堅中竹類也其中實簢筡中言其中空竹類仲無笐亦竹類未詳䈚箭萌萌筍屬也周禮}
+  - {type: variant, offset: 305, length: 1, content: 洲, krp: 者菌大小異名菆小葉未聞苕陵苕一名陵時本草云黃華蔈白華茇苕華色異名亦不同音沛蘪從水生生於水中薇垂水生於水邊薜山麻似人家麻生山中莽數節竹類也節間促桃枝四寸有節今桃枝節間相去多四寸粼堅中竹類也其中實簢筡中言其中空竹類仲無笐亦竹類未詳䈚箭萌萌筍屬也周禮}
+  - {type: variant, offset: 307, length: 1, content: 渚, SBCK: 葅鴈醢篠箭別二名枹霍首素華軌鬷皆未詳芏夫王芏草生海邊似莞藺今南方越人采以爲席藄月爾即紫藄也似蕨可食葴馬藍今大葉冬藍也姚莖涂薺未詳芐地黃一名地髓江東呼芐音怙蒙王女蒙即唐也女蘿別名拔蘢葛似葛蔓生有節江東呼爲龍尾亦謂之虎葛細葉赤莖藗牡茅白茅屬菤耳苓耳廣雅云枲耳也亦云胡枲江東呼爲常枲或曰苓耳形似䑕耳叢生如盤蕨􅣀廣雅云紫藄非也初生無葉可食江西謂之􅣀蕎邛鉅今藥草大㦸也本草云繁由胡未詳莣杜榮今莣草似茅皮可以爲繩索履屩也稂童􅆝稂莠類也藨麃麃即莓也今江東呼爲藨莓子似覆葐而大赤酢甜可啖的薂即蓮實也購蔏蔞蔏蔞蔞蒿也生下田初出可啖江東用羮魚茢勃茢一名石芸本草云葽繞蕀蒬今逺莣也似麻黃赤華葉銳而黃其上謂之}
+  - {type: page-break, offset: 307, content: '', id: KR1j0002_SBCK_012-5a}
+  - {type: variant, offset: 307, length: 1, content: 渚, krp: 葅鴈醢篠箭別二名枹霍首素華軌鬷皆未詳芏夫王芏草生海邊似莞藺今南方越人采以爲席藄月爾即紫藄也似蕨可食葴馬藍今大葉冬藍也姚莖涂薺未詳芐地黃一名地髓江東呼芐音怙蒙王女蒙即唐也女蘿別名拔蘢葛似葛蔓生有節江東呼爲龍尾亦謂之虎葛細葉赤莖藗牡茅白茅屬菤耳苓耳廣雅云枲耳也亦云胡枲江東呼爲常枲或曰苓耳形似䑕耳叢生如盤蕨􅣀廣雅云紫藄非也初生無葉可食江西謂之􅣀蕎邛鉅今藥草大㦸也本草云繁由胡未詳莣杜榮今莣草似茅皮可以爲繩索履屩也稂童粱稂莠類也藨麃麃即莓也今江東呼爲藨莓子似覆葐而大赤酢甜可啖的薂即蓮實也購蔏蔞蔏蔞蔞蒿也生下田初出可啖江東用羮魚茢勃茢一名石芸本草云葽繞蕀蒬今逺莣也似麻黃赤華葉銳而黃其上謂之}
+  - {type: punctuation, offset: 308, content: ，, id: KR1j0002_CHANT_012-bkkpn88}
+  - {type: 'tls:seg', offset: 308, content: '', id: KR1j0002_CHANT_012-12a.7}
+  - {type: variant, offset: 309, length: 1, content: 渚, SBCK: 草廣雅云茦刺草刺針也􅀜西謂之刺燕北朝鮮之閒}
+  - {type: variant, offset: 309, length: 1, content: 渚, krp: 草廣雅云茦刺草刺針也關西謂之刺燕北朝鮮之閒}
+  - {type: variant, offset: 311, length: 1, content: 沚, SBCK: 茦見方言蕭萩即蒿􅙛海薻藥草也一名海蘿如亂髪生海中本草云長楚銚今羊桃也或曰􅀑桃葉似桃華白子如}
+  - {type: variant, offset: 311, length: 1, content: 沚, krp: 茦見方言蕭萩即蒿􅙛海薻藥草也一名海蘿如亂髪生海中本草云長楚銚今羊桃也或曰鬼桃葉似桃華白子如}
+  - {type: punctuation, offset: 312, content: ，, id: KR1j0002_CHANT_012-bkkpn89}
+  - {type: 'tls:seg', offset: 312, content: '', id: KR1j0002_CHANT_012-12a.8}
+  - {type: variant, offset: 313, length: 4, content: 沚曰坻人, SBCK: 麥亦似桃蘦大苦今甘草也蔓延生葉似荷青黃莖赤有節節有枝相當或二蘦似地黃芣苢馬舄馬舄車前今車前草大葉長穗好生道邊江東呼爲蝦蟆衣綸似綸組似組東海有之綸今有秩嗇夫}
+  - {type: page-break, offset: 313, content: '', id: KR1j0002_SBCK_012-5b}
+  - {type: variant, offset: 313, length: 4, content: 沚曰坻人, krp: 麥亦似桃蘦大苦今甘草也蔓延生葉似荷青黃莖赤有節節有枝相當或二蘦似地黃芣苢馬舄馬舄車前今車前草大葉長穗好生道邊江東呼爲蝦蟆衣綸似綸組似組東海有之綸今有秩嗇夫}
+  - {type: punctuation, offset: 316, content: ，, id: KR1j0002_CHANT_012-bkkpn90}
+  - {type: 'tls:seg', offset: 316, content: '', id: KR1j0002_CHANT_012-12a.9}
+  - {type: variant, offset: 318, length: 12, content: 為為潏河曲河出崑崙虛色白, SBCK: 帶糾青絲綸組綬也海中草生彩理有象之者因以名云帛似帛布似布華山有之草葉有象布帛者因以名云生華山中苀東蠡未詳緜馬羊齒草細葉葉羅生而毛有似羊齒今江東呼爲鴈齒繅者以取繭緒萿麋舌今麋舌草春生葉有似於舌搴柜朐未詳蘩之醜秋爲蒿醜類也春時各有種名至秋老成皆通呼爲蒿芺薊其實荂芺與薊莖頭皆有蓊臺名荂荂即其實音俘蔈荂荼即芀猋藨芀皆芀荼之别名方俗異語}
+  - {type: variant, offset: 318, length: 12, content: 為為潏河曲河出崑崙虛色白, krp: 帶糾青絲綸組綬也海中草生彩理有象之者因以名云帛似帛布似布華山有之草葉有象布帛者因以名云生華山中苀東蠡未詳緜馬羊齒草細葉葉羅生而毛有似羊齒今江東呼爲鴈齒繅者以取繭緒萿麋舌今麋舌草春生葉有似於舌搴柜朐未詳蘩之醜秋爲蒿醜類也春時各有種名至秋老成皆通呼爲蒿芺薊其實荂芺與薊莖頭皆有蓊臺名荂荂即其實音俘蔈荂荼即芀猋藨芀皆芀荼之别名方俗異語}
+  - {type: punctuation, offset: 321, content: 。, id: KR1j0002_CHANT_012-bkkpn91}
+  - {type: xml-element, offset: 321, content: '', id: KR1j0002_CHANT_012-bkkxmlele54}
+  - {type: xml-element, offset: 321, content: '', id: KR1j0002_CHANT_012-bkkxmlele55}
+  - {type: 'tls:seg', offset: 321, content: '', id: KR1j0002_CHANT_012-13a.1}
+  - {type: 'tls:seg', offset: 321, content: '', id: KR1j0002_CHANT_012-13a.2}
+  - {type: 'tls:seg', offset: 321, content: '', id: KR1j0002_CHANT_012-13a.3}
+  - {type: punctuation, offset: 323, content: 。, id: KR1j0002_CHANT_012-bkkpn92}
+  - {type: xml-element, offset: 323, content: '', id: KR1j0002_CHANT_012-bkkxmlele56}
+  - {type: xml-element, offset: 323, content: '', id: KR1j0002_CHANT_012-bkkxmlele57}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR1j0002_CHANT_012-13a.4}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR1j0002_CHANT_012-13a.5}
+  - {type: punctuation, offset: 328, content: ，, id: KR1j0002_CHANT_012-bkkpn93}
+  - {type: 'tls:seg', offset: 328, content: '', id: KR1j0002_CHANT_012-13a.6}
+  - {type: punctuation, offset: 330, content: 。, id: KR1j0002_CHANT_012-bkkpn94}
+  - {type: 'tls:seg', offset: 330, content: '', id: KR1j0002_CHANT_012-13a.7}
+  - {type: variant, offset: 331, length: 12, content: 渠并千七百一川色黃百里一, SBCK: 未聞葦醜芀其類皆有芀秀葭華即今蘆也蒹薕似萑而細髙數尺江東呼爲蒹藡音廉葭蘆葦也菼薍似葦而}
+  - {type: variant, offset: 331, length: 12, content: 渠并千七百一川色黃百里一, krp: 未聞葦醜芀其類皆有芀秀葭華即今蘆也蒹薕似萑而細髙數尺江東呼爲蒹藡音廉葭蘆葦也菼薍似葦而}
+  - {type: punctuation, offset: 336, content: ，, id: KR1j0002_CHANT_012-bkkpn95}
+  - {type: 'tls:seg', offset: 336, content: '', id: KR1j0002_CHANT_012-13a.8}
+  - {type: punctuation, offset: 340, content: 。, id: KR1j0002_CHANT_012-bkkpn96}
+  - {type: 'tls:seg', offset: 340, content: '', id: KR1j0002_CHANT_012-13a.9}
+  - {type: variant, offset: 344, length: 25, content: 曲千里一曲一直九河徒駭太史馬頰覆鬴胡蘇𥳑絜鉤盤鬲津, SBCK: 實中江東呼爲烏蓲音丘其萌虇今江東呼蘆笋爲虇然則萑葦之􅀋其初生者皆名虇音繾綣蕍芛葟華榮釋言云華皇也今俗呼草木華初生者爲芛音䝐豬蕍猶敷蕍亦華之貌所未聞卷施草拔心不死宿莽也離騷云荺茭今江東呼藕紹緒如指空中可啖者爲茭茭即此􅀋荄根別二名俗呼韭根爲荄攫橐含未詳華荂也今江東呼華爲荂音敷華荂榮也轉相解木謂之華草}
+  - {type: variant, offset: 344, length: 25, content: 曲千里一曲一直九河徒駭太史馬頰覆鬴胡蘇𥳑絜鉤盤鬲津, krp: 實中江東呼爲烏蓲音丘其萌虇今江東呼蘆笋爲虇然則萑葦之類其初生者皆名虇音繾綣蕍芛葟華榮釋言云華皇也今俗呼草木華初生者爲芛音䝐豬蕍猶敷蕍亦華之貌所未聞卷施草拔心不死宿莽也離騷云荺茭今江東呼藕紹緒如指空中可啖者爲茭茭即此類荄根別二名俗呼韭根爲荄攫橐含未詳華荂也今江東呼華爲荂音敷華荂榮也轉相解木謂之華草}
+  - {type: punctuation, offset: 345, content: ，, id: KR1j0002_CHANT_012-bkkpn97}
+  - {type: 'tls:seg', offset: 345, content: '', id: KR1j0002_CHANT_012-13a.10}
+  - {type: punctuation, offset: 351, content: 。, id: KR1j0002_CHANT_012-bkkpn98}
+  - {type: xml-element, offset: 351, content: '', id: KR1j0002_CHANT_012-bkkxmlele58}
+  - {type: xml-element, offset: 351, content: '', id: KR1j0002_CHANT_012-bkkxmlele59}
+  - {type: 'tls:seg', offset: 351, content: '', id: KR1j0002_CHANT_012-14a.1}
+  - {type: 'tls:seg', offset: 351, content: '', id: KR1j0002_CHANT_012-14a.2}
+  - {type: 'tls:seg', offset: 351, content: '', id: KR1j0002_CHANT_012-14a.3}
+  - {type: punctuation, offset: 353, content: 。, id: KR1j0002_CHANT_012-bkkpn99}
+  - {type: xml-element, offset: 353, content: '', id: KR1j0002_CHANT_012-bkkxmlele60}
+  - {type: xml-element, offset: 353, content: '', id: KR1j0002_CHANT_012-bkkxmlele61}
+  - {type: 'tls:seg', offset: 353, content: '', id: KR1j0002_CHANT_012-14a.4}
+  - {type: 'tls:seg', offset: 353, content: '', id: KR1j0002_CHANT_012-14a.5}
+  - {type: punctuation, offset: 355, content: 、, id: KR1j0002_CHANT_012-bkkpn100}
+  - {type: punctuation, offset: 357, content: 、, id: KR1j0002_CHANT_012-bkkpn101}
+  - {type: punctuation, offset: 359, content: 、, id: KR1j0002_CHANT_012-bkkpn102}
+  - {type: substitution, offset: 360, original: 鬴, replacement: 釜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3317}}
+  - {type: punctuation, offset: 361, content: 、, id: KR1j0002_CHANT_012-bkkpn103}
+  - {type: punctuation, offset: 363, content: 、, id: KR1j0002_CHANT_012-bkkpn104}
+  - {type: punctuation, offset: 364, content: 、, id: KR1j0002_CHANT_012-bkkpn105}
+  - {type: substitution, offset: 364, original: 絜, replacement: 潔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0805}}
+  - {type: punctuation, offset: 365, content: 、, id: KR1j0002_CHANT_012-bkkpn106}
+  - {type: punctuation, offset: 367, content: 、, id: KR1j0002_CHANT_012-bkkpn107}
+  - {type: punctuation, offset: 369, content: 。, id: KR1j0002_CHANT_012-bkkpn108}
+  - {type: xml-element, offset: 369, content: '', id: KR1j0002_CHANT_012-bkkxmlele62}
+  back: []
+hash: sha256:22a9aa7773df2e590dcfe40c02cd7322cabf6f605664833ad2101e67659a7a75

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1j0002/chant/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 釋樂第七宮謂之重商謂之敏角謂之經徵謂之迭羽謂之柳大瑟謂之灑大琴謂之離大鼓謂之鼖小者謂之應大磬謂之毊大笙謂之巢小者謂之和大篪謂之沂大塤謂之嘂大鐘謂之鏞其中謂之剽小者謂之棧大簫謂之言小者謂之筊大管謂之簥其中謂之篞小者謂之篎大籥謂之産其中謂之仲小者謂之箹徒鼓瑟謂之步徒吹謂之和徒歌謂之謠徒擊鼓謂之咢徒鼓鐘謂之修徒鼓磬謂之寋所以鼓柷謂之止所以鼓敔謂之籈大鼗謂之麻小者謂之料和樂謂之節
+  hash: sha256:92517dfad271a0264cd444e0b246156c60b95828bc8c055f43756c69079a306e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1j0002_CHANT_007-1a.1-h}
+metadata:
+  title: 爾雅
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR1j0002.xml
+hash: sha256:b95f98032bb36ba471d9fe4a421fbe1f3194d1c6f949e09b169282862ab81870

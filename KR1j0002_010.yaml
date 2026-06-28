@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1j0002/chant/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 釋丘第十丘丘一成為敦丘再成為陶丘再成鋭上為融丘三成為崑崙丘如乘者乘丘如渚者渚丘水潦所止泥丘方丘胡丘絶高為之京非人為之丘水潦所還埒丘上正章丘澤中有丘都丘當途梧丘途出其右而還之畫丘途出其前戴丘途出其後昌丘水出其前渻丘水出其後沮丘水出其右正丘水出其前而左營丘如覆敦者敦丘邐迤沙丘左高咸丘右高臨丘前高旄丘後高陵丘偏高阿丘宛中宛丘丘背有丘為負丘左澤定丘右陵泰丘如畝畝丘如陵陵丘丘上有丘為宛丘陳有宛丘晉有潛丘淮南有州黎丘天下有名丘五三在河南其二在河北崖岸望崖灑而高岸夷上灑下不漘隩隈崖內為隩外為鞫畢堂牆重崖岸岸上滸墳大防涘為崖窮瀆汜谷者溦
+  hash: sha256:07bf9ae00569f635fa937073cdd12984caf2c9b1ee3ae80ab72362057f553ef6
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1j0002_CHANT_010-1a.1-h}
+metadata:
+  title: 爾雅
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR1j0002.xml
+hash: sha256:804b762292beb4d0186eeef0c708e481f933af631e9545103e6e41ca018f935b

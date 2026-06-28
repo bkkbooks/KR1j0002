@@ -1,0 +1,180 @@
+canonical_identifier: bkk:krp/KR1j0002/bkk/v1/markers/7
+seq: 7
+markers:
+  front:
+  - {type: variant, offset: 0, length: 74, content: 釋樂第七宮謂之重商謂之敏角謂之經徵謂之迭羽謂之柳大瑟謂之灑大琴謂之離大鼓謂之鼖小者謂之應大磬謂之毊大笙謂之巢小者謂之和大篪謂之沂大塤謂之嘂大鐘謂之鏞, SBCK: 博}
+  - {type: page-break, offset: 0, content: '', id: KR1j0002_SBCK_007-1a}
+  - {type: variant, offset: 0, length: 74, content: 釋樂第七宮謂之重商謂之敏角謂之經徵謂之迭羽謂之柳大瑟謂之灑大琴謂之離大鼓謂之鼖小者謂之應大磬謂之毊大笙謂之巢小者謂之和大篪謂之沂大塤謂之嘂大鐘謂之鏞, krp: 博}
+  body:
+  - {type: xml-element, offset: 4, content: '', id: KR1j0002_CHANT_007-bkkxmlele1}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR1j0002_CHANT_007-1a.1}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR1j0002_CHANT_007-1a.2}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR1j0002_CHANT_007-1a.3}
+  - {type: punctuation, offset: 8, content: ，, id: KR1j0002_CHANT_007-bkkpn1}
+  - {type: 'tls:seg', offset: 8, content: '', id: KR1j0002_CHANT_007-1a.4}
+  - {type: punctuation, offset: 12, content: ，, id: KR1j0002_CHANT_007-bkkpn2}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR1j0002_CHANT_007-1a.5}
+  - {type: punctuation, offset: 16, content: ，, id: KR1j0002_CHANT_007-bkkpn3}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR1j0002_CHANT_007-1a.6}
+  - {type: punctuation, offset: 20, content: ，, id: KR1j0002_CHANT_007-bkkpn4}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR1j0002_CHANT_007-1a.7}
+  - {type: punctuation, offset: 24, content: 。, id: KR1j0002_CHANT_007-bkkpn5}
+  - {type: xml-element, offset: 24, content: '', id: KR1j0002_CHANT_007-bkkxmlele2}
+  - {type: xml-element, offset: 24, content: '', id: KR1j0002_CHANT_007-bkkxmlele3}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR1j0002_CHANT_007-1a.8}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR1j0002_CHANT_007-1a.9}
+  - {type: punctuation, offset: 29, content: 。, id: KR1j0002_CHANT_007-bkkpn6}
+  - {type: xml-element, offset: 29, content: '', id: KR1j0002_CHANT_007-bkkxmlele4}
+  - {type: xml-element, offset: 29, content: '', id: KR1j0002_CHANT_007-bkkxmlele5}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR1j0002_CHANT_007-2a.1}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR1j0002_CHANT_007-2a.2}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR1j0002_CHANT_007-2a.3}
+  - {type: punctuation, offset: 34, content: 。, id: KR1j0002_CHANT_007-bkkpn7}
+  - {type: xml-element, offset: 34, content: '', id: KR1j0002_CHANT_007-bkkxmlele6}
+  - {type: xml-element, offset: 34, content: '', id: KR1j0002_CHANT_007-bkkxmlele7}
+  - {type: 'tls:seg', offset: 34, content: '', id: KR1j0002_CHANT_007-2a.4}
+  - {type: 'tls:seg', offset: 34, content: '', id: KR1j0002_CHANT_007-2a.5}
+  - {type: punctuation, offset: 39, content: ，, id: KR1j0002_CHANT_007-bkkpn8}
+  - {type: 'tls:seg', offset: 39, content: '', id: KR1j0002_CHANT_007-2a.6}
+  - {type: punctuation, offset: 44, content: 。, id: KR1j0002_CHANT_007-bkkpn9}
+  - {type: xml-element, offset: 44, content: '', id: KR1j0002_CHANT_007-bkkxmlele8}
+  - {type: xml-element, offset: 44, content: '', id: KR1j0002_CHANT_007-bkkxmlele9}
+  - {type: 'tls:seg', offset: 44, content: '', id: KR1j0002_CHANT_007-2a.7}
+  - {type: 'tls:seg', offset: 44, content: '', id: KR1j0002_CHANT_007-2a.8}
+  - {type: punctuation, offset: 49, content: 。, id: KR1j0002_CHANT_007-bkkpn10}
+  - {type: xml-element, offset: 49, content: '', id: KR1j0002_CHANT_007-bkkxmlele10}
+  - {type: xml-element, offset: 49, content: '', id: KR1j0002_CHANT_007-bkkxmlele11}
+  - {type: 'tls:seg', offset: 49, content: '', id: KR1j0002_CHANT_007-3a.1}
+  - {type: 'tls:seg', offset: 49, content: '', id: KR1j0002_CHANT_007-3a.2}
+  - {type: 'tls:seg', offset: 49, content: '', id: KR1j0002_CHANT_007-3a.3}
+  - {type: punctuation, offset: 54, content: ，, id: KR1j0002_CHANT_007-bkkpn11}
+  - {type: 'tls:seg', offset: 54, content: '', id: KR1j0002_CHANT_007-3a.4}
+  - {type: punctuation, offset: 59, content: 。, id: KR1j0002_CHANT_007-bkkpn12}
+  - {type: xml-element, offset: 59, content: '', id: KR1j0002_CHANT_007-bkkxmlele12}
+  - {type: xml-element, offset: 59, content: '', id: KR1j0002_CHANT_007-bkkxmlele13}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR1j0002_CHANT_007-3a.5}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR1j0002_CHANT_007-3a.6}
+  - {type: punctuation, offset: 64, content: 。, id: KR1j0002_CHANT_007-bkkpn13}
+  - {type: xml-element, offset: 64, content: '', id: KR1j0002_CHANT_007-bkkxmlele14}
+  - {type: xml-element, offset: 64, content: '', id: KR1j0002_CHANT_007-bkkxmlele15}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR1j0002_CHANT_007-3a.7}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR1j0002_CHANT_007-3a.8}
+  - {type: punctuation, offset: 69, content: 。, id: KR1j0002_CHANT_007-bkkpn14}
+  - {type: xml-element, offset: 69, content: '', id: KR1j0002_CHANT_007-bkkxmlele16}
+  - {type: xml-element, offset: 69, content: '', id: KR1j0002_CHANT_007-bkkxmlele17}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR1j0002_CHANT_007-4a.1}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR1j0002_CHANT_007-4a.2}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR1j0002_CHANT_007-4a.3}
+  - {type: punctuation, offset: 74, content: ，, id: KR1j0002_CHANT_007-bkkpn15}
+  - {type: 'tls:seg', offset: 74, content: '', id: KR1j0002_CHANT_007-4a.4}
+  - {type: punctuation, offset: 79, content: ，, id: KR1j0002_CHANT_007-bkkpn16}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR1j0002_CHANT_007-4a.5}
+  - {type: punctuation, offset: 84, content: 。, id: KR1j0002_CHANT_007-bkkpn17}
+  - {type: xml-element, offset: 84, content: '', id: KR1j0002_CHANT_007-bkkxmlele18}
+  - {type: xml-element, offset: 84, content: '', id: KR1j0002_CHANT_007-bkkxmlele19}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR1j0002_CHANT_007-4a.6}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR1j0002_CHANT_007-4a.7}
+  - {type: punctuation, offset: 89, content: ，, id: KR1j0002_CHANT_007-bkkpn18}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR1j0002_CHANT_007-4a.8}
+  - {type: variant, offset: 89, length: 0, content: '', SBCK: 編二十三管長尺四寸}
+  - {type: variant, offset: 89, length: 0, content: '', krp: 編二十三管長尺四寸}
+  - {type: punctuation, offset: 94, content: 。, id: KR1j0002_CHANT_007-bkkpn19}
+  - {type: xml-element, offset: 94, content: '', id: KR1j0002_CHANT_007-bkkxmlele20}
+  - {type: xml-element, offset: 94, content: '', id: KR1j0002_CHANT_007-bkkxmlele21}
+  - {type: 'tls:seg', offset: 94, content: '', id: KR1j0002_CHANT_007-5a.1}
+  - {type: 'tls:seg', offset: 94, content: '', id: KR1j0002_CHANT_007-5a.2}
+  - {type: 'tls:seg', offset: 94, content: '', id: KR1j0002_CHANT_007-5a.3}
+  - {type: variant, offset: 94, length: 0, content: '', SBCK: 十六管長尺二寸簫一名籟}
+  - {type: variant, offset: 94, length: 0, content: '', krp: 十六管長尺二寸簫一名籟}
+  - {type: punctuation, offset: 99, content: ，, id: KR1j0002_CHANT_007-bkkpn20}
+  - {type: 'tls:seg', offset: 99, content: '', id: KR1j0002_CHANT_007-5a.4}
+  - {type: variant, offset: 99, length: 0, content: '', SBCK: 管長尺圍寸洴漆之有底賈氏以爲如箎六孔}
+  - {type: variant, offset: 99, length: 0, content: '', krp: 管長尺圍寸洴漆之有底賈氏以爲如箎六孔}
+  - {type: punctuation, offset: 104, content: ，, id: KR1j0002_CHANT_007-bkkpn21}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR1j0002_CHANT_007-5a.5}
+  - {type: punctuation, offset: 109, content: 。, id: KR1j0002_CHANT_007-bkkpn22}
+  - {type: xml-element, offset: 109, content: '', id: KR1j0002_CHANT_007-bkkxmlele22}
+  - {type: xml-element, offset: 109, content: '', id: KR1j0002_CHANT_007-bkkxmlele23}
+  - {type: 'tls:seg', offset: 109, content: '', id: KR1j0002_CHANT_007-5a.6}
+  - {type: 'tls:seg', offset: 109, content: '', id: KR1j0002_CHANT_007-5a.7}
+  - {type: variant, offset: 113, length: 1, content: 產, SBCK: 産籥如笛三孔而短小廣雅云七孔}
+  - {type: variant, offset: 113, length: 1, content: 產, krp: 産籥如笛三孔而短小廣雅云七孔}
+  - {type: substitution, offset: 113, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
+  - {type: punctuation, offset: 114, content: ，, id: KR1j0002_CHANT_007-bkkpn23}
+  - {type: 'tls:seg', offset: 114, content: '', id: KR1j0002_CHANT_007-5a.8}
+  - {type: punctuation, offset: 119, content: ，, id: KR1j0002_CHANT_007-bkkpn24}
+  - {type: 'tls:seg', offset: 119, content: '', id: KR1j0002_CHANT_007-5a.9}
+  - {type: punctuation, offset: 124, content: 。, id: KR1j0002_CHANT_007-bkkpn25}
+  - {type: xml-element, offset: 124, content: '', id: KR1j0002_CHANT_007-bkkxmlele24}
+  - {type: xml-element, offset: 124, content: '', id: KR1j0002_CHANT_007-bkkxmlele25}
+  - {type: 'tls:seg', offset: 124, content: '', id: KR1j0002_CHANT_007-6a.1}
+  - {type: 'tls:seg', offset: 124, content: '', id: KR1j0002_CHANT_007-6a.2}
+  - {type: 'tls:seg', offset: 124, content: '', id: KR1j0002_CHANT_007-6a.3}
+  - {type: variant, offset: 125, length: 1, content: 鼓, SBCK: 鼔}
+  - {type: variant, offset: 125, length: 1, content: 鼓, krp: 鼔}
+  - {type: punctuation, offset: 130, content: 。, id: KR1j0002_CHANT_007-bkkpn26}
+  - {type: 'tls:seg', offset: 130, content: '', id: KR1j0002_CHANT_007-6a.4}
+  - {type: variant, offset: 130, length: 0, content: '', SBCK: 獨作之}
+  - {type: variant, offset: 130, length: 0, content: '', krp: 獨作之}
+  - {type: punctuation, offset: 135, content: 。, id: KR1j0002_CHANT_007-bkkpn27}
+  - {type: 'tls:seg', offset: 135, content: '', id: KR1j0002_CHANT_007-6a.5}
+  - {type: variant, offset: 139, length: 1, content: 謠, SBCK: 謡詩云我歌且謡}
+  - {type: variant, offset: 139, length: 1, content: 謠, krp: 謡詩云我歌且謡}
+  - {type: punctuation, offset: 140, content: 。, id: KR1j0002_CHANT_007-bkkpn28}
+  - {type: 'tls:seg', offset: 140, content: '', id: KR1j0002_CHANT_007-6a.6}
+  - {type: variant, offset: 142, length: 1, content: 鼓, SBCK: 鼔}
+  - {type: variant, offset: 142, length: 1, content: 鼓, krp: 鼔}
+  - {type: punctuation, offset: 146, content: 。, id: KR1j0002_CHANT_007-bkkpn29}
+  - {type: 'tls:seg', offset: 146, content: '', id: KR1j0002_CHANT_007-6a.7}
+  - {type: variant, offset: 146, length: 0, content: '', SBCK: 詩云或歌或咢}
+  - {type: variant, offset: 146, length: 0, content: '', krp: 詩云或歌或咢}
+  - {type: variant, offset: 147, length: 1, content: 鼓, SBCK: 鼔}
+  - {type: variant, offset: 147, length: 1, content: 鼓, krp: 鼔}
+  - {type: punctuation, offset: 152, content: 。, id: KR1j0002_CHANT_007-bkkpn30}
+  - {type: 'tls:seg', offset: 152, content: '', id: KR1j0002_CHANT_007-6a.8}
+  - {type: variant, offset: 153, length: 1, content: 鼓, SBCK: 鼔}
+  - {type: variant, offset: 153, length: 1, content: 鼓, krp: 鼔}
+  - {type: punctuation, offset: 158, content: 。, id: KR1j0002_CHANT_007-bkkpn31}
+  - {type: xml-element, offset: 158, content: '', id: KR1j0002_CHANT_007-bkkxmlele26}
+  - {type: xml-element, offset: 158, content: '', id: KR1j0002_CHANT_007-bkkxmlele27}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR1j0002_CHANT_007-6a.9}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR1j0002_CHANT_007-6a.10}
+  - {type: variant, offset: 158, length: 0, content: '', SBCK: 未見義所出}
+  - {type: variant, offset: 158, length: 0, content: '', krp: 未見義所出}
+  - {type: variant, offset: 160, length: 1, content: 鼓, SBCK: 鼔}
+  - {type: variant, offset: 160, length: 1, content: 鼓, krp: 鼔}
+  - {type: punctuation, offset: 165, content: 。, id: KR1j0002_CHANT_007-bkkpn32}
+  - {type: 'tls:seg', offset: 165, content: '', id: KR1j0002_CHANT_007-6a.11}
+  - {type: variant, offset: 165, length: 0, content: '', SBCK: 柷如漆桶方二尺四寸深一尺八寸中有椎柄連底桐之令左右擊止者其椎名}
+  - {type: variant, offset: 165, length: 0, content: '', krp: 柷如漆桶方二尺四寸深一尺八寸中有椎柄連底桐之令左右擊止者其椎名}
+  - {type: variant, offset: 167, length: 1, content: 鼓, SBCK: 鼔}
+  - {type: variant, offset: 167, length: 1, content: 鼓, krp: 鼔}
+  - {type: punctuation, offset: 172, content: 。, id: KR1j0002_CHANT_007-bkkpn33}
+  - {type: xml-element, offset: 172, content: '', id: KR1j0002_CHANT_007-bkkxmlele28}
+  - {type: xml-element, offset: 172, content: '', id: KR1j0002_CHANT_007-bkkxmlele29}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR1j0002_CHANT_007-7a.1}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR1j0002_CHANT_007-7a.2}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR1j0002_CHANT_007-7a.3}
+  - {type: variant, offset: 172, length: 0, content: '', SBCK: 敔如伏虎背上有二十七鉏鋙刻以木長尺櫟之籈者其名}
+  - {type: variant, offset: 172, length: 0, content: '', krp: 敔如伏虎背上有二十七鉏鋙刻以木長尺櫟之籈者其名}
+  - {type: punctuation, offset: 177, content: ，, id: KR1j0002_CHANT_007-bkkpn34}
+  - {type: 'tls:seg', offset: 177, content: '', id: KR1j0002_CHANT_007-7a.4}
+  - {type: punctuation, offset: 182, content: 。, id: KR1j0002_CHANT_007-bkkpn35}
+  - {type: xml-element, offset: 182, content: '', id: KR1j0002_CHANT_007-bkkxmlele30}
+  - {type: xml-element, offset: 182, content: '', id: KR1j0002_CHANT_007-bkkxmlele31}
+  - {type: 'tls:seg', offset: 182, content: '', id: KR1j0002_CHANT_007-7a.5}
+  - {type: 'tls:seg', offset: 182, content: '', id: KR1j0002_CHANT_007-7a.6}
+  - {type: variant, offset: 182, length: 0, content: '', SBCK: 麻者音穊而長也料者聲清而不亂}
+  - {type: variant, offset: 182, length: 0, content: '', krp: 麻者音穊而長也料者聲清而不亂}
+  - {type: punctuation, offset: 187, content: 。, id: KR1j0002_CHANT_007-bkkpn36}
+  - {type: xml-element, offset: 187, content: '', id: KR1j0002_CHANT_007-bkkxmlele32}
+  - {type: variant, offset: 187, length: 0, content: '', SBCK: 釋天第八穹蒼蒼天也天形穹隆其色蒼蒼因名云春爲蒼天萬物蒼蒼然生夏爲昊天言氣皓旴秋爲旻天旻猶愍也愍萬物彫落冬爲上天言時無事在上臨下而已四時春爲青陽氣青而温陽夏爲朱明氣赤而光明秋爲白藏氣白而收藏冬爲􅀇英氣黒而清英四氣和謂之玉燭道光照春爲發生夏爲長嬴秋爲收成冬爲安寧此亦四時之别號尸子皆以爲太平祥風四時和爲通正道平暢也謂之景風所以致景風甘雨時降萬物以嘉莫不善之謂之醴泉所以出醴泉祥榖不熟爲饑五穀不成􅂼不熟爲饉凡草菜可食者通名爲􅂼果不熟爲荒果木子仍饑爲荐連歳不熟左傳曰今又荐饑災太歳在甲曰閼逢在乙曰旃蒙在丙曰柔兆在丁曰強圉在戊曰著雍在己曰屠維在庚曰上章在辛曰重光在壬曰􅀇􅘬在癸曰昭陽歳陽太歳在寅曰攝提格在卯曰單閼在辰曰執徐在巳曰大荒落在午曰敦牂在未曰恊洽在申曰涒灘在酉曰作噩在戌曰閹茂在亥曰大淵獻在子曰困敦在丑曰赤奮若載歳也夏曰歳取歳星行一次商曰祀取四時一終周曰年取禾一熟唐虞曰載取物終更始歳名月在甲曰畢在乙曰橘在丙曰修在丁曰圉在戊曰厲在己曰則在庚曰窒在辛曰塞在壬曰終在癸曰極月陽正月爲陬離騷云攝提貞於孟陬二月爲如三月爲寎四月爲余五月爲臯六月爲且七月爲相八月爲壯九月爲􅀇國語云至於􅀇月是也十月爲陽純隂用事嫌於無陽故以名云十一月爲辜十二月爲涂皆月之别名自歳陽至此其事義皆所未詳通者故闕而不論月名南風謂之凱風詩曰凱風自南東風謂之谷風詩云習習谷風北風謂之涼風詩云北風其涼西風謂之㤗風詩云泰風有隧焚輪謂之穨暴風從上下扶揺謂之猋暴風從下上風與火爲庉庉庉熾盛之貌迴風爲飄旋風也日出而風爲暴詩云終風且暴風而雨土爲霾詩曰終風且霾隂而風爲曀詩曰終風且曀天氣下地不應曰雺言蒙昧地氣發天不應曰霧霧謂之晦言晦􅁳螮蝀謂之雩螮蝀虹也俗名爲美人虹江東呼雩音芌蜺爲挈貳蜺雌虹也見離騷挈貳其别名見尸子弇日爲蔽雲即暈氣五彩覆日也疾雷爲霆霓雷之急激者謂霹靂雨䨘爲霄雪詩曰如彼雨雪先集維䨘䨘水雪雜下者故謂之消雪暴雨謂之涷今江東呼夏月暴雨爲涷雨離騷云今飄風兮先驅使涷雨兮灑塵是也涷音東西之東小雨謂之霡霂詩曰益之以霡霂久雨謂之淫左傳曰天作淫雨淫謂之霖雨自三日已上爲霖濟謂之霽今南陽人呼雨止爲霽音薺風雨壽星角亢也數起角亢列宿之長故曰壽天根氐也角亢下繫於氐若木之有根天駟房也龍馬天馬故房四星謂之天駟大辰房心尾也龍星明者以爲時候故曰大辰大火謂之大辰大火心也在中最明故時候主焉析木謂之津即漢津也箕斗之閒漢津也箕龍尾斗南斗天漢之津梁星紀斗牽牛也牽牛斗者日月五星之所終始故謂之星紀􅀇枵虚也虚在正北北方色黒枵之言耗耗亦虚意顓頊之虚虚也顓頊水德位在北方北陸虚也虚星之名凡四營室謂之定定正也作宫室皆以營室中爲正娵觜之口營室東壁也營室東壁星四方似口因名云降婁奎婁也奎爲溝瀆故名降大梁昴也西陸昴也昴西方之宿別名旄頭濁謂之畢掩兎之畢或呼爲濁因星形以名咮謂之柳咮朱鳥之口柳鶉火也鶉鳥名火屬南方北極謂之北辰北極天之中以正四時何鼔謂之牽牛今荆楚人呼牽牛星爲檐鼔檐者荷也明星謂之启明太白星也晨見東方爲启明昏見西方爲太白彗星爲欃槍亦謂之孛言其形孛孛似埽彗奔星爲彴約流星星名春祭曰祠祠之言食夏祭曰礿新菜可汋秋祭曰甞甞新榖冬祭曰蒸進品物也祭天曰燔柴旣􅀕積薪燒之祭地曰瘞薶旣祭埋藏之祭山曰庪縣或庪或縣置之於山山海經曰縣以􅁻玉是也祭川曰浮沈投祭水中或浮或沈祭星曰布布散祭於地祭風曰磔今俗當大道中磔狗云以止風此其象是禷是禡師祭也師出征伐類於上帝禡於所征之地旣伯旣禱馬祭也伯祭馬祖也將用馬力必先祭其先禘大祭也五年一大祭繹又祭也祭之明日尋繹復祭周曰繹春秋經曰壬午猶繹商曰肜書曰髙宗肜日夏曰復胙未見義所出祭名春獵爲蒐搜索取不任者夏獵爲苗爲苗稼除害秋獵爲獮順殺氣也冬獵爲狩得獸取之無所擇宵田爲獠管子曰獠獵畢弋今江東亦呼獵爲獠音遼或曰即今夜獵載鑪照也火田爲狩放火燒草獵亦爲狩乃立冢土戎醜攸行冢土大社戎醜大衆起大事動大衆必先}
+  - {type: page-break, offset: 187, content: '', id: KR1j0002_SBCK_007-1b}
+  - {type: page-break, offset: 187, content: '', id: KR1j0002_SBCK_007-2a}
+  - {type: page-break, offset: 187, content: '', id: KR1j0002_SBCK_007-2b}
+  - {type: page-break, offset: 187, content: '', id: KR1j0002_SBCK_007-3a}
+  - {type: page-break, offset: 187, content: '', id: KR1j0002_SBCK_007-3b}
+  - {type: page-break, offset: 187, content: '', id: KR1j0002_SBCK_007-4a}
+  - {type: variant, offset: 187, length: 0, content: '', krp: 釋天第八穹蒼蒼天也天形穹隆其色蒼蒼因名云春爲蒼天萬物蒼蒼然生夏爲昊天言氣皓旴秋爲旻天旻猶愍也愍萬物彫落冬爲上天言時無事在上臨下而已四時春爲青陽氣青而温陽夏爲朱明氣赤而光明秋爲白藏氣白而收藏冬爲玄英氣黒而清英四氣和謂之玉燭道光照春爲發生夏爲長嬴秋爲收成冬爲安寧此亦四時之别號尸子皆以爲太平祥風四時和爲通正道平暢也謂之景風所以致景風甘雨時降萬物以嘉莫不善之謂之醴泉所以出醴泉祥榖不熟爲饑五穀不成𬞞不熟爲饉凡草菜可食者通名爲𬞞果不熟爲荒果木子仍饑爲荐連歳不熟左傳曰今又荐饑災太歳在甲曰閼逢在乙曰旃蒙在丙曰柔兆在丁曰強圉在戊曰著雍在己曰屠維在庚曰上章在辛曰重光在壬曰玄􅘬在癸曰昭陽歳陽太歳在寅曰攝提格在卯曰單閼在辰曰執徐在巳曰大荒落在午曰敦牂在未曰恊洽在申曰涒灘在酉曰作噩在戌曰閹茂在亥曰大淵獻在子曰困敦在丑曰赤奮若載歳也夏曰歳取歳星行一次商曰祀取四時一終周曰年取禾一熟唐虞曰載取物終更始歳名月在甲曰畢在乙曰橘在丙曰修在丁曰圉在戊曰厲在己曰則在庚曰窒在辛曰塞在壬曰終在癸曰極月陽正月爲陬離騷云攝提貞於孟陬二月爲如三月爲寎四月爲余五月爲臯六月爲且七月爲相八月爲壯九月爲玄國語云至於玄月是也十月爲陽純隂用事嫌於無陽故以名云十一月爲辜十二月爲涂皆月之别名自歳陽至此其事義皆所未詳通者故闕而不論月名南風謂之凱風詩曰凱風自南東風謂之谷風詩云習習谷風北風謂之涼風詩云北風其涼西風謂之㤗風詩云泰風有隧焚輪謂之穨暴風從上下扶揺謂之猋暴風從下上風與火爲庉庉庉熾盛之貌迴風爲飄旋風也日出而風爲暴詩云終風且暴風而雨土爲霾詩曰終風且霾隂而風爲曀詩曰終風且曀天氣下地不應曰雺言蒙昧地氣發天不應曰霧霧謂之晦言晦冥螮蝀謂之雩螮蝀虹也俗名爲美人虹江東呼雩音芌蜺爲挈貳蜺雌虹也見離騷挈貳其别名見尸子弇日爲蔽雲即暈氣五彩覆日也疾雷爲霆霓雷之急激者謂霹靂雨䨘爲霄雪詩曰如彼雨雪先集維䨘䨘水雪雜下者故謂之消雪暴雨謂之涷今江東呼夏月暴雨爲涷雨離騷云今飄風兮先驅使涷雨兮灑塵是也涷音東西之東小雨謂之霡霂詩曰益之以霡霂久雨謂之淫左傳曰天作淫雨淫謂之霖雨自三日已上爲霖濟謂之霽今南陽人呼雨止爲霽音薺風雨壽星角亢也數起角亢列宿之長故曰壽天根氐也角亢下繫於氐若木之有根天駟房也龍馬天馬故房四星謂之天駟大辰房心尾也龍星明者以爲時候故曰大辰大火謂之大辰大火心也在中最明故時候主焉析木謂之津即漢津也箕斗之閒漢津也箕龍尾斗南斗天漢之津梁星紀斗牽牛也牽牛斗者日月五星之所終始故謂之星紀玄枵虚也虚在正北北方色黒枵之言耗耗亦虚意顓頊之虚虚也顓頊水德位在北方北陸虚也虚星之名凡四營室謂之定定正也作宫室皆以營室中爲正娵觜之口營室東壁也營室東壁星四方似口因名云降婁奎婁也奎爲溝瀆故名降大梁昴也西陸昴也昴西方之宿別名旄頭濁謂之畢掩兎之畢或呼爲濁因星形以名咮謂之柳咮朱鳥之口柳鶉火也鶉鳥名火屬南方北極謂之北辰北極天之中以正四時何鼔謂之牽牛今荆楚人呼牽牛星爲檐鼔檐者荷也明星謂之启明太白星也晨見東方爲启明昏見西方爲太白彗星爲欃槍亦謂之孛言其形孛孛似埽彗奔星爲彴約流星星名春祭曰祠祠之言食夏祭曰礿新菜可汋秋祭曰甞甞新榖冬祭曰蒸進品物也祭天曰燔柴旣祭積薪燒之祭地曰瘞薶旣祭埋藏之祭山曰庪縣或庪或縣置之於山山海經曰縣以吉玉是也祭川曰浮沈投祭水中或浮或沈祭星曰布布散祭於地祭風曰磔今俗當大道中磔狗云以止風此其象是禷是禡師祭也師出征伐類於上帝禡於所征之地旣伯旣禱馬祭也伯祭馬祖也將用馬力必先祭其先禘大祭也五年一大祭繹又祭也祭之明日尋繹復祭周曰繹春秋經曰壬午猶繹商曰肜書曰髙宗肜日夏曰復胙未見義所出祭名春獵爲蒐搜索取不任者夏獵爲苗爲苗稼除害秋獵爲獮順殺氣也冬獵爲狩得獸取之無所擇宵田爲獠管子曰獠獵畢弋今江東亦呼獵爲獠音遼或曰即今夜獵載鑪照也火田爲狩放火燒草獵亦爲狩乃立冢土戎醜攸行冢土大社戎醜大衆起大事動大衆必先}
+  back: []
+hash: sha256:941863bddaa0a1112c7c0e5c1abe7c66ac0e2d4f21fdb248698ba484f3588497

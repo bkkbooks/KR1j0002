@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR1j0002/krp/v1/juan/0
+seq: 0
+front:
+  text: 爾雅序
+  hash: sha256:9f6c11f71cad8cd0dadc6092a5f98b7e9f28d515c40f7368f3d73586d977151f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1j0002_SBCK_000-1a}
+body:
+  text: 郭璞撰夫爾雅者所以通詁訓之指歸敘詩人之興詠揔絶代之離詞辯同實而殊號者也誠九流之津渉六藝之鈐鍵學覽者之潭奥摛翰者之華苑也若乃可以博物不惑多識於鳥獸草木之名者莫近於爾雅爾雅者蓋興於中古隆於漢氏豹䑕旣辨其業亦顯英儒贍聞之士洪筆麗藻之客靡不欽玩耽味爲之義訓璞不揆檮昧少而習焉沈研鑚極二九載矣雖註者十餘然猶未詳備並多紛謬有所漏略是以復綴集異聞㑹稡舊說考方國之語采謡俗之志錯綜樊孫博關羣言剟其瑕礫搴其蕭稂事有隱滯援據徴之其所易了闕而不論别爲音圖用袪未寤輒復擁篲清道企望塵躅者以將來君子爲亦有渉乎此也
+  hash: sha256:9b0da8cf5949c976d0509006870f72260055b03cd3bb765672f00db2fd206c41
+metadata:
+  title: 爾雅
+  edition:
+    short: krp
+  date: '2015-09-10 22:50:20.891736'
+  source:
+    repository: kanripo
+    path: KR1j0002/KR1j0002_000.txt
+hash: sha256:01afa4d06e4a3b790ee3155a9703844a1ec821b744a899045683cf40a0066ad5
