@@ -76,6 +76,7 @@ markers:
   - {type: 'tls:seg', offset: 30, content: '', id: KR1j0002_CHANT_016-4a.5}
   - {type: 'tls:seg', offset: 30, content: '', id: KR1j0002_CHANT_016-4a.6}
   - {type: punctuation, offset: 31, content: 、, id: KR1j0002_CHANT_016-bkkpn19}
+  - {type: substitution, offset: 32, original: 鰕, replacement: 蝦, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20034}}
   - {type: punctuation, offset: 33, content: 。, id: KR1j0002_CHANT_016-bkkpn20}
   - {type: xml-element, offset: 33, content: '', id: KR1j0002_CHANT_016-bkkxmlele22}
   - {type: xml-element, offset: 33, content: '', id: KR1j0002_CHANT_016-bkkxmlele23}
@@ -136,6 +137,7 @@ markers:
   - {type: 'tls:seg', offset: 60, content: '', id: KR1j0002_CHANT_016-7a.4}
   - {type: 'tls:seg', offset: 60, content: '', id: KR1j0002_CHANT_016-7a.5}
   - {type: punctuation, offset: 61, content: 、, id: KR1j0002_CHANT_016-bkkpn39}
+  - {type: substitution, offset: 61, original: 鰕, replacement: 蝦, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20034}}
   - {type: punctuation, offset: 62, content: 。, id: KR1j0002_CHANT_016-bkkpn40}
   - {type: xml-element, offset: 62, content: '', id: KR1j0002_CHANT_016-bkkxmlele40}
   - {type: xml-element, offset: 62, content: '', id: KR1j0002_CHANT_016-bkkxmlele41}
@@ -187,6 +189,7 @@ markers:
   - {type: 'tls:seg', offset: 80, content: '', id: KR1j0002_CHANT_016-10a.1}
   - {type: 'tls:seg', offset: 80, content: '', id: KR1j0002_CHANT_016-10a.2}
   - {type: 'tls:seg', offset: 80, content: '', id: KR1j0002_CHANT_016-10a.3}
+  - {type: substitution, offset: 81, original: 𪓰, replacement: 鼀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-11319}}
   - {type: punctuation, offset: 82, content: 、, id: KR1j0002_CHANT_016-bkkpn55}
   - {type: punctuation, offset: 84, content: 。, id: KR1j0002_CHANT_016-bkkpn56}
   - {type: 'tls:seg', offset: 84, content: '', id: KR1j0002_CHANT_016-10a.4}
@@ -208,6 +211,7 @@ markers:
   - {type: 'tls:seg', offset: 93, content: '', id: KR1j0002_CHANT_016-11a.1}
   - {type: 'tls:seg', offset: 93, content: '', id: KR1j0002_CHANT_016-11a.2}
   - {type: 'tls:seg', offset: 93, content: '', id: KR1j0002_CHANT_016-11a.3}
+  - {type: substitution, offset: 93, original: 鼈, replacement: 鱉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20821}}
   - {type: punctuation, offset: 96, content: 、, id: KR1j0002_CHANT_016-bkkpn62}
   - {type: punctuation, offset: 97, content: 。, id: KR1j0002_CHANT_016-bkkpn63}
   - {type: 'tls:seg', offset: 97, content: '', id: KR1j0002_CHANT_016-11a.4}
@@ -217,9 +221,11 @@ markers:
   - {type: xml-element, offset: 101, content: '', id: KR1j0002_CHANT_016-bkkxmlele63}
   - {type: 'tls:seg', offset: 101, content: '', id: KR1j0002_CHANT_016-11a.5}
   - {type: 'tls:seg', offset: 101, content: '', id: KR1j0002_CHANT_016-11a.6}
+  - {type: substitution, offset: 102, original: 蠃, replacement: 螺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19382}}
   - {type: punctuation, offset: 103, content: 、, id: KR1j0002_CHANT_016-bkkpn66}
   - {type: punctuation, offset: 105, content: 。, id: KR1j0002_CHANT_016-bkkpn67}
   - {type: 'tls:seg', offset: 105, content: '', id: KR1j0002_CHANT_016-11a.7}
+  - {type: substitution, offset: 105, original: 蠃, replacement: 螺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19382}}
   - {type: punctuation, offset: 106, content: 、, id: KR1j0002_CHANT_016-bkkpn68}
   - {type: punctuation, offset: 109, content: 。, id: KR1j0002_CHANT_016-bkkpn69}
   - {type: xml-element, offset: 109, content: '', id: KR1j0002_CHANT_016-bkkxmlele64}
@@ -277,6 +283,7 @@ markers:
   - {type: punctuation, offset: 174, content: 、, id: KR1j0002_CHANT_016-bkkpn94}
   - {type: punctuation, offset: 177, content: 。, id: KR1j0002_CHANT_016-bkkpn95}
   - {type: 'tls:seg', offset: 177, content: '', id: KR1j0002_CHANT_016-13a.10}
+  - {type: substitution, offset: 177, original: 𧐐, replacement: 鰿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-10984}}
   - {type: punctuation, offset: 178, content: 、, id: KR1j0002_CHANT_016-bkkpn96}
   - {type: punctuation, offset: 181, content: 。, id: KR1j0002_CHANT_016-bkkpn97}
   - {type: xml-element, offset: 181, content: '', id: KR1j0002_CHANT_016-bkkxmlele72}
@@ -314,6 +321,7 @@ markers:
   - {type: 'tls:seg', offset: 211, content: '', id: KR1j0002_CHANT_016-15a.2}
   - {type: 'tls:seg', offset: 211, content: '', id: KR1j0002_CHANT_016-15a.3}
   - {type: punctuation, offset: 212, content: 、, id: KR1j0002_CHANT_016-bkkpn113}
+  - {type: substitution, offset: 216, original: 鰕, replacement: 蝦, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20034}}
   - {type: punctuation, offset: 217, content: 。, id: KR1j0002_CHANT_016-bkkpn114}
   - {type: xml-element, offset: 217, content: '', id: KR1j0002_CHANT_016-bkkxmlele78}
   - {type: xml-element, offset: 217, content: '', id: KR1j0002_CHANT_016-bkkxmlele79}
@@ -362,4 +370,4 @@ markers:
   - {type: xml-element, offset: 272, content: '', id: KR1j0002_CHANT_016-bkkxmlele82}
   - {type: variant, offset: 272, length: 0, content: '', krp: 此皆說龜生之處所火龜猶火䑕耳物有含異氣者不可以常理推然亦無所怪釋鳥第十七隹其鳺鴀今䳕鳩鶌鳩鶻鵃似山鵲而小短尾青黒色多聲今江東亦呼爲鶻鵃鳲鳩鴶鵴今之布穀也江東呼爲穫穀鷑鳩鵧鷑小黒鳥鳴自呼江東名爲鳥鳴鴡鳩王鴡鵰類今江東呼之爲鶚好在江渚山邊食魚毛詩傳曰鳥摯而有别鵅鵋䳢今江東呼鵂鶹爲鵋䳢亦謂之鴝鵅音格鶅鵵軌未詳鴗天狗小鳥也青似翠食魚江東呼爲水狗鷚天鸙大如鷃雀色似鶉好髙飛作聲今江東名之天鷚音綢繆鵱鷜鵝今之野鵝鶬麋鴰今呼鶬鴰鵅烏􅖂水鳥也似鶂而短鵛腹翅紫白背上緑色江東呼烏􅖂音駮舒鴈鵝禮記曰出如舒鴈今江東呼􅕯音加舒鳧鶩鴨也鳽鵁鶄似鳧脚髙毛冠江東人家養之以厭火災輿鵛鷋未詳鵜鴮鸅今之鵜鶘也好羣飛沈水食魚故名洿澤俗呼之爲淘河鶾天鷄鶾鷄赤羽逸周書曰文鶾若彩鷄成王時蜀人獻之鷽山鵲似鵲而有文彩長尾觜脚赤鷣負雀鷣鷂也江南呼之爲鷣善捉雀因名云音淫齧齒艾未詳鶨䳢老鴒鶨也俗呼爲癡鳥鳸鴳今鴳雀桑鳸竊脂俗謂之青雀觜曲食肉好盗脂膏因名云鳭鷯剖葦好剖葦皮食其中蟲因名云江東呼蘆虎似雀青班長尾桃蟲鷦其雌鴱鷦􅛯桃雀也俗呼爲巧婦鶠鳳其雌皇瑞應鳥鷄頭蛇頸燕頷龜背魚尾五彩色其髙六尺許䳭鴒雝渠雀屬也飛則鳴行則揺鸒斯鵯鶋雅烏也小而多羣腹下白江東亦呼爲鵯烏音匹燕白脰烏脰頸鴽鴾母鸙也青州呼鴾母密肌繫英釋蟲以有此名疑誤重巂周子巂鳥出蜀中燕燕鳦詩云燕燕于飛一名玄鳥齊人呼鳦鴟鴞鸋鴂鴟類狂茅鴟今􅣽鴟也似鷹而白怪鴟即鴟鵂也見廣雅今江東通呼此屬爲怪鳥梟鴟土梟鶛劉疾未詳生哺鷇鳥子須母食之生噣雛能自食爰居雜縣國語曰海鳥爰居漢元帝時琅邪有大鳥如馬駒時人謂之爰居春鳸鳻鶞夏鳸竊玄秋鳸竊藍冬鳸竊黃桑鳸竊脂棘鳸竊丹行鳸唶唶宵鳸嘖嘖諸鳸皆因其毛色音聲以爲名竊藍青色鵖鴔戴鵀鵀即頭上勝今亦呼爲戴勝鵖鴔猶鶝語聲轉耳鶭澤虞今婟澤鳥似水鴞蒼黒色常在澤中見人輒鳴喚不去有象主守之官因名云俗呼爲護田鳥鶿鷧即鸕鶿也觜頭曲如鈎食魚鷯鶉其雄鶛牝痺鴞䳺屬鸍沈鳧似鴨而小長尾背上有文今江東亦呼爲鸍音施鴢頭鵁似鳧脚近尾略不能行江東謂之魚鵁音髐箭鵽鳩宼雉鵽大如鴿似雌雉䑕脚無後指岐尾爲鳥愍急羣飛出北方沙漠地萑老鵵木兎也似鴟鵂而小兎頭有角毛脚夜飛好食鷄鶟鶦鳥似雉青身白頭狂㝱鳥狂鳥五色有冠見山海經皇黃鳥俗呼黃離留亦名摶黍翠鷸似燕紺色生鬱林鸀山烏似烏而小赤觜穴乳出西方蝙蝠服翼齊人呼爲蟙䘃或謂之仙䑕晨風鸇鷂屬詩曰鴪彼晨風鸉白鷢似鷹尾上白寇雉泆泆即鵽鳩也鷆蟁母似烏􅖂而大黃白雜文鳴如鴿聲今江東呼爲蚊母俗說此鳥常吐蚊故以名云鷉須鸁鷉鷿鷉似鳧而小膏中瑩刀鼯䑕夷由狀如小狐似蝙蝠肉翅翅尾項脅毛紫赤色背上蒼艾色腹下黃喙頷雜白脚短爪長尾三尺許飛且乳亦謂之飛生聲如人呼食火煙能從髙赴下不能從下上髙倉庚商庚即鵹黃也鳺餔敊未詳鷹鶆鳩鶆當爲字之誤耳左傳作鳩是也鶼鶼比翼說已在上鵹黃楚雀即倉庚也鴷斵木口如錐長數寸常斵樹食蟲因名云鸄鶶鷵似烏蒼白色鸕諸雉未詳或云即今雉鷺舂鉏白鷺也頭翅背上皆有長翰毛今江東人取以爲睫攡名之曰白鷺縗鷂雉青質五彩鷮雉即鷮雞也長尾走且鳴鳪雉黃色鳴自呼鷩雉似山雞而小冠背毛黃腹下赤項緑色鮮明秩秩海雉如雉而黒在海中山上鸐山雉長尾者雗雉鵫雉今白鵫也江東呼白雗亦名白雉雉絶有力奮最健鬪伊洛而南素質五采皆備成章曰翬翬亦雉屬言其毛色光鮮江淮而南青質五采皆備成章曰鷂即鷂雉也南方曰􅔧東方曰鶅北方曰鵗西方曰鷷說四方雉之名鳥䑕同穴其鳥爲鵌其䑕爲鼵鼵如人家䑕而短尾鵌似鵽而小黃黒色入地三四尺䑕在内鳥在外今在隴西首陽縣鳥䑕同穴山中孔氏尚書傳云共爲雄雌張氏地理記云不爲牝牡}
   back: []
-hash: sha256:8ef2f12380531589425d59e305f72d6d8359894454debf618cb0db9f6e3cbe47
+hash: sha256:2e20ac033fd4e79301230115792c8dda3bd693858d5f0433bbda531cafecb784

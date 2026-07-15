@@ -28,6 +28,7 @@ markers:
   - {type: 'tls:seg', offset: 17, content: '', id: KR1j0002_CHANT_009-2a.3}
   - {type: variant, offset: 19, length: 20, content: 曰雝州漢南曰荊州江南曰楊州濟河間曰兗州濟, SBCK: 日下在}
   - {type: variant, offset: 19, length: 20, content: 曰雝州漢南曰荊州江南曰楊州濟河間曰兗州濟, krp: 日下在}
+  - {type: substitution, offset: 20, original: 雝, replacement: 雍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18593}}
   - {type: punctuation, offset: 22, content: 。, id: KR1j0002_CHANT_009-bkkpn4}
   - {type: xml-element, offset: 22, content: '', id: KR1j0002_CHANT_009-bkkxmlele8}
   - {type: xml-element, offset: 22, content: '', id: KR1j0002_CHANT_009-bkkxmlele9}
@@ -232,6 +233,7 @@ markers:
   - {type: 'tls:seg', offset: 244, content: '', id: KR1j0002_CHANT_009-13a.1}
   - {type: 'tls:seg', offset: 244, content: '', id: KR1j0002_CHANT_009-13a.2}
   - {type: 'tls:seg', offset: 244, content: '', id: KR1j0002_CHANT_009-13a.3}
+  - {type: substitution, offset: 247, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: punctuation, offset: 248, content: ，, id: KR1j0002_CHANT_009-bkkpn54}
   - {type: 'tls:seg', offset: 248, content: '', id: KR1j0002_CHANT_009-13a.4}
   - {type: punctuation, offset: 256, content: 。, id: KR1j0002_CHANT_009-bkkpn55}
@@ -347,6 +349,7 @@ markers:
   - {type: 'tls:seg', offset: 421, content: '', id: KR1j0002_CHANT_009-18a.1}
   - {type: 'tls:seg', offset: 421, content: '', id: KR1j0002_CHANT_009-18a.2}
   - {type: 'tls:seg', offset: 421, content: '', id: KR1j0002_CHANT_009-18a.3}
+  - {type: substitution, offset: 425, original: 菑, replacement: 災, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16583}}
   - {type: punctuation, offset: 426, content: ，, id: KR1j0002_CHANT_009-bkkpn89}
   - {type: 'tls:seg', offset: 426, content: '', id: KR1j0002_CHANT_009-18a.4}
   - {type: punctuation, offset: 431, content: ，, id: KR1j0002_CHANT_009-bkkpn90}
@@ -367,6 +370,7 @@ markers:
   - {type: 'tls:seg', offset: 442, content: '', id: KR1j0002_CHANT_009-18a.10}
   - {type: punctuation, offset: 447, content: ，, id: KR1j0002_CHANT_009-bkkpn94}
   - {type: 'tls:seg', offset: 447, content: '', id: KR1j0002_CHANT_009-18a.11}
+  - {type: substitution, offset: 451, original: 鈆, replacement: 鉛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17147}}
   - {type: punctuation, offset: 452, content: ，, id: KR1j0002_CHANT_009-bkkpn95}
   - {type: 'tls:seg', offset: 452, content: '', id: KR1j0002_CHANT_009-18a.12}
   - {type: punctuation, offset: 457, content: ，, id: KR1j0002_CHANT_009-bkkpn96}
@@ -439,4 +443,4 @@ markers:
   - {type: page-break, offset: 539, content: '', id: KR1j0002_SBCK_009-1b}
   - {type: variant, offset: 539, length: 0, content: '', krp: 地氣使之然也四極釋丘第十丘一成爲敦丘成猶重也周禮曰爲壇三成今江東呼地髙堆者爲敦再成爲陶丘今濟隂定陶城中有陶丘再成銳上爲融丘鐵頂者三成爲崐崘丘崐崘山三重故以名云如椉者椉丘形似車椉也或云椉謂稻田塍埒如陼者陼丘水中小洲爲陼水潦所止泥丘頂上汚下者方丘胡丘形四方絕髙爲之京人力所作非人爲之丘地自然生水潦所還埒丘謂丘邊有界埒水繞環之上正章丘頂平澤中有丘都丘在池澤中當途梧丘途道途出其右而還之畫丘言爲道所規畫途出其前戴丘道出丘南途出其後昌丘道出丘北水出其前渻丘水出其後沮丘水出其右正丘水出其左營丘今齊之營丘淄水過其南及東如覆敦者敦丘敦盂也邐迆沙丘旁行連延左髙咸丘右髙臨丘前髙旄丘詩云旄丘之葛兮後髙陵丘偏髙阿丘詩云陟彼阿丘宛中宛丘宛謂中央隆髙丘背有丘爲負丘此解宛丘中央隆峻狀如負一丘於背上左澤定丘右陵泰丘宋有太丘杜云見史記如畝畝丘丘有壟界如田畝如陵陵丘陵大阜也丘上有丘爲宛丘嫌人不了故重曉之陳有宛丘今在陳郡陳縣晉有濳丘今在太原晉陽縣淮南有州黎丘今在壽春縣天下有名丘五其三在河南其二在河北說者多以州黎宛營爲河南潜敦爲河北者案此方稱天下之名丘恐此諸丘碌碌未足用當之殆自别更有}
   back: []
-hash: sha256:6cabe33b0f118c04dd1235cc38a542568c5c2b121dad8179bde7692c61d06c57
+hash: sha256:a89e3c3618045cfd46ed77c0f4e86ed54a4bfc43b38c8aa107e6f3dc4edbe7c7
