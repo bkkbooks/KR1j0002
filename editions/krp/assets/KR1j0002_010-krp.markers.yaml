@@ -9,8 +9,8 @@ markers:
   - {type: punctuation, offset: 0, content: (, id: KR1j0002_krp_010-bkkpn1}
   - {type: 'voice:problem', offset: 0, length: 0, id: KR1j0002_krp_010-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 0}
   - {type: punctuation, offset: 9, content: /, id: KR1j0002_krp_010-bkkpn2}
+  - {type: punctuation, offset: 17, content: ), id: KR1j0002_krp_010-bkkpn1}
   body:
-  - {type: punctuation, offset: 0, content: ), id: KR1j0002_krp_010-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
 
       ', id: KR1j0002_krp_010-bkkkrnewl1}
@@ -264,4 +264,4 @@ markers:
 
       ', id: KR1j0002_krp_010-bkkkrnewl21}
   back: []
-hash: sha256:ced06623de5d43d58b3c4b8fd3741750024764d7bc831d85352d50d0d3d94b25
+hash: sha256:ef68ea9185fd5338b3c8fe0a7d69bd5af0d15cfc11a20a1f669b03fa4b8c2fe2
